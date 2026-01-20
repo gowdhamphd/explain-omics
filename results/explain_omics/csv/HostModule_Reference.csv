@@ -1,0 +1,4 @@
+host_module,Biological_Label,n_pathways,n_sig_pathways_total,ModuleWeight
+Module_1__receptor_secretion,receptor secretion,258,258,5.556828061699537
+Module_60__metabolic_catabolic,metabolic catabolic,74,74,4.31748811353631
+Module_20__glycosylation_biosynthetic,glycosylation biosynthetic,38,38,3.6635616461296463

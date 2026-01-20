@@ -1,0 +1,236 @@
+host_module,Biological_Label,n_pathways,n_sig_pathways_total,ModuleWeight
+Module_1__receptor_secretion,receptor secretion,258,258,5.556828061699537
+Module_17__differentiation_immune,differentiation immune,157,157,5.062595033026967
+Module_32__development_morphogenesis,development morphogenesis,148,148,5.003946305945459
+Module_24__muscle_cardiac,muscle cardiac,141,141,4.955827057601261
+Module_21__transport_lipid,transport lipid,132,132,4.890349128221754
+Module_3__growth_development,growth development,124,124,4.828313737302301
+Module_2__muscle_cardiac,muscle cardiac,119,119,4.787491742782046
+Module_33__development_morphogenesis,development morphogenesis,117,117,4.770684624465664
+Module_36__assembly_organization,assembly organization,115,115,4.7535901911063645
+Module_37__morphogenesis_development,morphogenesis development,113,113,4.736198448394496
+Module_23__transport_calcium,transport calcium,107,107,4.68213122712422
+Module_43__response_stimulus,response stimulus,97,97,4.584967478670571
+Module_12__localization_protein,localization protein,86,86,4.465908118654584
+Module_4__collagen_organization,collagen organization,85,85,4.454347296253507
+Module_13__development_neuron,development neuron,84,84,4.442651256490317
+Module_18__response_receptor,response receptor,76,76,4.343805421853684
+Module_60__metabolic_catabolic,metabolic catabolic,74,74,4.31748811353631
+Module_16__response_coagulation,response coagulation,67,67,4.219507705176107
+Module_38__organization_protein,organization protein,67,67,4.219507705176107
+Module_7__vesicle_synaptic,vesicle synaptic,66,66,4.204692619390966
+Module_47__development_circadian,development circadian,55,55,4.025351690735149
+Module_29__activity_cascade,activity cascade,53,53,3.988984046564274
+Module_35__secretion_protein,secretion protein,50,50,3.9318256327243257
+Module_6__development_differentiation,development differentiation,45,45,3.828641396489095
+Module_49__production_response,production response,44,44,3.8066624897703196
+Module_195__cycle_repair,cycle repair,41,41,3.737669618283368
+Module_34__endothelial_migration,endothelial migration,39,39,3.6888794541139363
+Module_20__glycosylation_biosynthetic,glycosylation biosynthetic,38,38,3.6635616461296463
+Module_10__receptor_factor,receptor factor,38,38,3.6635616461296463
+Module_15__transport_assembly,transport assembly,38,38,3.6635616461296463
+Module_55__nerve_development,nerve development,34,34,3.5553480614894135
+Module_14__cascade_activation,cascade activation,33,33,3.526360524616161
+Module_5__adhesion_junction,adhesion junction,28,28,3.3672958299864737
+Module_42__remodeling_tissue,remodeling tissue,27,27,3.332204510175204
+Module_8__chemotaxis_leukocyte,chemotaxis leukocyte,25,25,3.2580965380214817
+Module_44__development_mesoderm,development mesoderm,24,24,3.2188758248682006
+Module_72__amino_catabolic,amino catabolic,22,22,3.1354942159291497
+Module_54__transport_anion,transport anion,20,20,3.044522437723423
+Module_40__signal_transduction,signal transduction,19,19,2.995732273553991
+Module_63__development_cerebellar,development cerebellar,18,18,2.9444389791664403
+Module_52__metabolic_biosynthetic,metabolic biosynthetic,17,17,2.8903717578961645
+Module_64__renal_transport,renal transport,16,16,2.833213344056216
+Module_57__apoptotic_extrinsic,apoptotic extrinsic,14,14,2.70805020110221
+Module_199__formation_heterochromatin,formation heterochromatin,14,14,2.70805020110221
+Module_198__transport_intracellular,transport intracellular,13,13,2.6390573296152584
+Module_39__canonical_planar,canonical planar,13,13,2.6390573296152584
+Module_41__thermogenesis_induced,thermogenesis induced,10,10,2.3978952727983707
+Module_56__response_vitamin,response vitamin,10,10,2.3978952727983707
+Module_46__response_insulin,response insulin,9,9,2.3025850929940455
+Module_95__apoptotic_muscle,apoptotic muscle,9,9,2.3025850929940455
+Module_76__acetylcholine_response,acetylcholine response,8,8,2.197224577336219
+Module_66__mirna_transcription,mirna transcription,7,7,2.0794415416798357
+Module_98__interleukin_response,interleukin response,7,7,2.0794415416798357
+Module_91__activity_cyclase,activity cyclase,7,7,2.0794415416798357
+Module_79__nitric_oxide,nitric oxide,7,7,2.0794415416798357
+Module_50__apoptotic_neuron,apoptotic neuron,7,7,2.0794415416798357
+Module_51__response_compound,response compound,7,7,2.0794415416798357
+Module_48__response_levels,response levels,7,7,2.0794415416798357
+Module_124__factor_growth,factor growth,7,7,2.0794415416798357
+Module_129__translocation_lipid,translocation lipid,6,6,1.9459101490553132
+Module_65__protein_complex,protein complex,6,6,1.9459101490553132
+Module_80__reproductive_cilium,reproductive cilium,6,6,1.9459101490553132
+Module_75__differentiation_brown,differentiation brown,5,5,1.791759469228055
+Module_92__maintenance_population,maintenance population,5,5,1.791759469228055
+Module_53__response_stimulus,response stimulus,4,4,1.6094379124341003
+Module_9__smoothened_hedgehog,smoothened hedgehog,4,4,1.6094379124341003
+Module_99__apoptotic_leukocyte,apoptotic leukocyte,4,4,1.6094379124341003
+Module_88__differentiation_pigmentation,differentiation pigmentation,4,4,1.6094379124341003
+Module_85__response_acidic,response acidic,4,4,1.6094379124341003
+Module_84__response_amino,response amino,4,4,1.6094379124341003
+Module_61__activity_factor,activity factor,4,4,1.6094379124341003
+Module_215__healing_wound,healing wound,4,4,1.6094379124341003
+Module_45__maturation_anatomical,maturation anatomical,4,4,1.6094379124341003
+Module_205__elongation_transcription,elongation transcription,4,4,1.6094379124341003
+Module_202__localization_centrosome,localization centrosome,4,4,1.6094379124341003
+Module_164__entry_symbiont,entry symbiont,4,4,1.6094379124341003
+Module_136__amide_amyloid,amide amyloid,4,4,1.6094379124341003
+Module_106__membrane_assembly,membrane assembly,4,4,1.6094379124341003
+Module_232__expression_activation,expression activation,3,3,1.3862943611198906
+Module_94__angiotensin_response,angiotensin response,3,3,1.3862943611198906
+Module_83__response_gonadotropin,response gonadotropin,3,3,1.3862943611198906
+Module_78__pruning_synapse,pruning synapse,3,3,1.3862943611198906
+Module_69__response_metal,response metal,3,3,1.3862943611198906
+Module_120__colony_factor,colony factor,3,3,1.3862943611198906
+Module_210__aminoacylation_activation,aminoacylation activation,3,3,1.3862943611198906
+Module_111__osteoblast_proliferation,osteoblast proliferation,3,3,1.3862943611198906
+Module_123__fibroblast_proliferation,fibroblast proliferation,3,3,1.3862943611198906
+Module_101__epinephrine_response,epinephrine response,3,3,1.3862943611198906
+Module_118__cascade_p38mapk,cascade p38mapk,3,3,1.3862943611198906
+Module_86__apoptotic_involved,apoptotic involved,2,2,1.0986122886681096
+Module_184__metabolic_alkanesulfonate,metabolic alkanesulfonate,2,2,1.0986122886681096
+Module_191__early_endosome,early endosome,2,2,1.0986122886681096
+Module_200__cortical_cytoskeleton,cortical cytoskeleton,2,2,1.0986122886681096
+Module_201__polymerase_transcription,polymerase transcription,2,2,1.0986122886681096
+Module_204__alpha_interferon,alpha interferon,2,2,1.0986122886681096
+Module_207__autophagy,autophagy,2,2,1.0986122886681096
+Module_220__peptidyl_phosphorylation,peptidyl phosphorylation,2,2,1.0986122886681096
+Module_228__netrin,netrin,2,2,1.0986122886681096
+Module_233__activated_cancer,activated cancer,2,2,1.0986122886681096
+Module_177__interleukin_production,interleukin production,2,2,1.0986122886681096
+Module_30__absorption_digestion,absorption digestion,2,2,1.0986122886681096
+Module_62__dietary_energy,dietary energy,2,2,1.0986122886681096
+Module_68__ganglion_guidance,ganglion guidance,2,2,1.0986122886681096
+Module_74__differentiation_myoblast,differentiation myoblast,2,2,1.0986122886681096
+Module_82__amyloid_response,amyloid response,2,2,1.0986122886681096
+Module_183__contraction_muscle,contraction muscle,2,2,1.0986122886681096
+Module_28__notch,notch,2,2,1.0986122886681096
+Module_163__localization_protein,localization protein,2,2,1.0986122886681096
+Module_135__interleukin_production,interleukin production,2,2,1.0986122886681096
+Module_157__mediated_phosphate,mediated phosphate,2,2,1.0986122886681096
+Module_102__maturation_synapse,maturation synapse,2,2,1.0986122886681096
+Module_105__autophosphorylation_peptidyl,autophosphorylation peptidyl,2,2,1.0986122886681096
+Module_110__potassium_response,potassium response,2,2,1.0986122886681096
+Module_113__respiratory_exchange,respiratory exchange,2,2,1.0986122886681096
+Module_117__division_nuclear,division nuclear,2,2,1.0986122886681096
+Module_128__catabolic_receptor,catabolic receptor,2,2,1.0986122886681096
+Module_109__aggregation_cartilage,aggregation cartilage,2,2,1.0986122886681096
+Module_138__generation,generation,2,2,1.0986122886681096
+Module_141__interleukin_response,interleukin response,2,2,1.0986122886681096
+Module_148__behavior_mating,behavior mating,2,2,1.0986122886681096
+Module_153__hormone_parathyroid,hormone parathyroid,2,2,1.0986122886681096
+Module_154__lipoprotein_localization,lipoprotein localization,2,2,1.0986122886681096
+Module_139__anoikis,anoikis,2,2,1.0986122886681096
+Module_156__protein_signal,protein signal,2,2,1.0986122886681096
+Module_214__modification_protein,modification protein,1,1,0.6931471805599453
+Module_209__autophagy_chaperone,autophagy chaperone,1,1,0.6931471805599453
+Module_211__heterochromatin_organization,heterochromatin organization,1,1,0.6931471805599453
+Module_212__desmosome_organization,desmosome organization,1,1,0.6931471805599453
+Module_213__protein_ribosylation,protein ribosylation,1,1,0.6931471805599453
+Module_218__replicative_senescence,replicative senescence,1,1,0.6931471805599453
+Module_216__epsilon_receptor,epsilon receptor,1,1,0.6931471805599453
+Module_217__chain_fatty,chain fatty,1,1,0.6931471805599453
+Module_219__branching_morphogenesis,branching morphogenesis,1,1,0.6931471805599453
+Module_221__polymerase_transcription,polymerase transcription,1,1,0.6931471805599453
+Module_206__migration_nuclear,migration nuclear,1,1,0.6931471805599453
+Module_208__microautophagy,microautophagy,1,1,0.6931471805599453
+Module_190__differentiation_fiber,differentiation fiber,1,1,0.6931471805599453
+Module_203__ncrna_processing,ncrna processing,1,1,0.6931471805599453
+Module_19__myocarditis_viral,myocarditis viral,1,1,0.6931471805599453
+Module_197__mediated_proteolysis,mediated proteolysis,1,1,0.6931471805599453
+Module_196__alanine_aspartate,alanine aspartate,1,1,0.6931471805599453
+Module_194__leptin_response,leptin response,1,1,0.6931471805599453
+Module_193__cytoplasmic_translation,cytoplasmic translation,1,1,0.6931471805599453
+Module_192__localization_membrane,localization membrane,1,1,0.6931471805599453
+Module_223__dependent_migration,dependent migration,1,1,0.6931471805599453
+Module_189__neuropeptide_synaptic,neuropeptide synaptic,1,1,0.6931471805599453
+Module_188__chemotaxis_muscle,chemotaxis muscle,1,1,0.6931471805599453
+Module_187__commitment,commitment,1,1,0.6931471805599453
+Module_186__behavioral_ethanol,behavioral ethanol,1,1,0.6931471805599453
+Module_222__behavior_chemosensory,behavior chemosensory,1,1,0.6931471805599453
+Module_231__border_neural,border neural,1,1,0.6931471805599453
+Module_224__deacetylation_protein,deacetylation protein,1,1,0.6931471805599453
+Module_225__catabolic_decay,catabolic decay,1,1,0.6931471805599453
+Module_96__development_midgut,development midgut,1,1,0.6931471805599453
+Module_93__anatomical_regression,anatomical regression,1,1,0.6931471805599453
+Module_90__factor_growth,factor growth,1,1,0.6931471805599453
+Module_89__localization_protein,localization protein,1,1,0.6931471805599453
+Module_87__forebrain_regionalization,forebrain regionalization,1,1,0.6931471805599453
+Module_81__development_embryonic,development embryonic,1,1,0.6931471805599453
+Module_77__parturition,parturition,1,1,0.6931471805599453
+Module_73__vasculogenesis,vasculogenesis,1,1,0.6931471805599453
+Module_71__estradiol_response,estradiol response,1,1,0.6931471805599453
+Module_70__derived_factor,derived factor,1,1,0.6931471805599453
+Module_67__adhesion_heterotypic,adhesion heterotypic,1,1,0.6931471805599453
+Module_59__ischemia_response,ischemia response,1,1,0.6931471805599453
+Module_58__distal_formation,distal formation,1,1,0.6931471805599453
+Module_31__complex_polycomb,complex polycomb,1,1,0.6931471805599453
+Module_27__endocytosis,endocytosis,1,1,0.6931471805599453
+Module_26__cancer_micrornas,cancer micrornas,1,1,0.6931471805599453
+Module_25__hippo_multiple,hippo multiple,1,1,0.6931471805599453
+Module_235__anchoring_basal,anchoring basal,1,1,0.6931471805599453
+Module_234__cadherins_classical,cadherins classical,1,1,0.6931471805599453
+Module_182__myoblast_proliferation,myoblast proliferation,1,1,0.6931471805599453
+Module_230__lymphoid_between,lymphoid between,1,1,0.6931471805599453
+Module_22__cancer_misregulation,cancer misregulation,1,1,0.6931471805599453
+Module_229__interleukin,interleukin,1,1,0.6931471805599453
+Module_227__epidermal_factor,epidermal factor,1,1,0.6931471805599453
+Module_226__endosomal_fusion,endosomal fusion,1,1,0.6931471805599453
+Module_185__plasticity_synaptic,plasticity synaptic,1,1,0.6931471805599453
+Module_173__receptor,receptor,1,1,0.6931471805599453
+Module_181__animal_maturation,animal maturation,1,1,0.6931471805599453
+Module_122__proliferation,proliferation,1,1,0.6931471805599453
+Module_142__fatty_response,fatty response,1,1,0.6931471805599453
+Module_140__chemical_modulation,chemical modulation,1,1,0.6931471805599453
+Module_137__cross_linking,cross linking,1,1,0.6931471805599453
+Module_134__activation_fibroblast,activation fibroblast,1,1,0.6931471805599453
+Module_133__development_embryonic,development embryonic,1,1,0.6931471805599453
+Module_132__development_osteoblast,development osteoblast,1,1,0.6931471805599453
+Module_131__antibiotic_response,antibiotic response,1,1,0.6931471805599453
+Module_130__dephosphorylation_protein,dephosphorylation protein,1,1,0.6931471805599453
+Module_127__migration_motor,migration motor,1,1,0.6931471805599453
+Module_126__dehydroascorbic_transport,dehydroascorbic transport,1,1,0.6931471805599453
+Module_125__galactose_metabolic,galactose metabolic,1,1,0.6931471805599453
+Module_121__derived_factor,derived factor,1,1,0.6931471805599453
+Module_144__activation,activation,1,1,0.6931471805599453
+Module_11__hematopoietic_lineage,hematopoietic lineage,1,1,0.6931471805599453
+Module_119__hindbrain_migration,hindbrain migration,1,1,0.6931471805599453
+Module_116__activity_response,activity response,1,1,0.6931471805599453
+Module_115__response,response,1,1,0.6931471805599453
+Module_114__development_ectoderm,development ectoderm,1,1,0.6931471805599453
+Module_112__actin_crosslink,actin crosslink,1,1,0.6931471805599453
+Module_108__lymphocyte_lymphoid,lymphocyte lymphoid,1,1,0.6931471805599453
+Module_107__camera_morphogenesis,camera morphogenesis,1,1,0.6931471805599453
+Module_104__magnesium_response,magnesium response,1,1,0.6931471805599453
+Module_103__estrogen_response,estrogen response,1,1,0.6931471805599453
+Module_100__activated_receptor,activated receptor,1,1,0.6931471805599453
+Module_143__expression_involved,expression involved,1,1,0.6931471805599453
+Module_145__response_water,response water,1,1,0.6931471805599453
+Module_180__division,division,1,1,0.6931471805599453
+Module_166__pancreatic_proliferation,pancreatic proliferation,1,1,0.6931471805599453
+Module_179__adhesion_epithelial,adhesion epithelial,1,1,0.6931471805599453
+Module_178__amide_catabolic,amide catabolic,1,1,0.6931471805599453
+Module_176__oxygen_transport,oxygen transport,1,1,0.6931471805599453
+Module_175__differentiation_immature,differentiation immature,1,1,0.6931471805599453
+Module_174__transition,transition,1,1,0.6931471805599453
+Module_172__inflammatory_involved,inflammatory involved,1,1,0.6931471805599453
+Module_171__behavior_motor,behavior motor,1,1,0.6931471805599453
+Module_170__modification_structure,modification structure,1,1,0.6931471805599453
+Module_169__reflex,reflex,1,1,0.6931471805599453
+Module_168__commissural_guidance,commissural guidance,1,1,0.6931471805599453
+Module_167__response,response,1,1,0.6931471805599453
+Module_165__adult_development,adult development,1,1,0.6931471805599453
+Module_146__coupled_opioid,coupled opioid,1,1,0.6931471805599453
+Module_162__calcitonin_family,calcitonin family,1,1,0.6931471805599453
+Module_161__behavior_drinking,behavior drinking,1,1,0.6931471805599453
+Module_160__transport_urate,transport urate,1,1,0.6931471805599453
+Module_159__chemical_modulation,chemical modulation,1,1,0.6931471805599453
+Module_158__response,response,1,1,0.6931471805599453
+Module_155__mediated,mediated,1,1,0.6931471805599453
+Module_152__beta1_factor,beta1 factor,1,1,0.6931471805599453
+Module_151__growth_hormone,growth hormone,1,1,0.6931471805599453
+Module_150__dendritic_differentiation,dendritic differentiation,1,1,0.6931471805599453
+Module_149__arborization_neuron,arborization neuron,1,1,0.6931471805599453
+Module_147__morphogenesis,morphogenesis,1,1,0.6931471805599453
+Module_97__canal_development,canal development,1,1,0.6931471805599453

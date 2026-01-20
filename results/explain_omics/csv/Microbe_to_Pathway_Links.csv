@@ -1,0 +1,133 @@
+Genus,Microbe_Direction,MicrobeScore,Obj2_Pathway,Functional_Class,Comparison,Evidence_Score,FDR,Hits,LinkScore
+Anoxybacillus,Tumor_up,12.58197455491161,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,37.74592366473483
+Chromatium,Tumor_up,6.0,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,18.0
+Chromatium,Tumor_up,6.0,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,18.0
+Chromatium,Tumor_up,6.0,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,18.0
+Chromatium,Tumor_up,6.0,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,18.0
+Chromatium,Tumor_up,6.0,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,18.0
+Chromatium,Tumor_up,6.0,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,18.0
+Chromatium,Tumor_up,6.0,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,18.0
+Chromatium,Tumor_up,6.0,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,18.0
+Chromatium,Tumor_up,6.0,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,18.0
+Chromatium,Tumor_up,6.0,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,18.0
+Chromatium,Tumor_up,6.0,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,18.0
+Chromatium,Tumor_up,6.0,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,18.0
+Clostridioides,Tumor_up,19.11454456404097,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,57.34363369212291
+Collinsella,Tumor_up,4.0,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,12.0
+Collinsella,Tumor_up,4.0,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,12.0
+Collinsella,Tumor_up,4.0,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,12.0
+Collinsella,Tumor_up,4.0,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,12.0
+Collinsella,Tumor_up,4.0,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,12.0
+Collinsella,Tumor_up,4.0,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,12.0
+Collinsella,Tumor_up,4.0,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,12.0
+Collinsella,Tumor_up,4.0,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,12.0
+Collinsella,Tumor_up,4.0,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,12.0
+Collinsella,Tumor_up,4.0,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,12.0
+Collinsella,Tumor_up,4.0,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,12.0
+Collinsella,Tumor_up,4.0,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,12.0
+Dorea_A,Adjacent_up,8.70614910323963,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,26.11844730971889
+Emergencia,Adjacent_up,20.6550028931498,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,61.9650086794494
+Legionella,Tumor_up,17.61221115867515,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,52.836633476025455
+Pseudomonas,Tumor_up,19.0596049896991,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,57.1788149690973
+Streptomyces,Tumor_up,19.1650563481703,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,57.4951690445109
+Thermococcus,Tumor_up,23.11954687407791,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,69.35864062223372
+UBA2212,Adjacent_up,13.52148378134368,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Phosphatidylinositol Phosphate Metabolism,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,1.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Purine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,8.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Pterine Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Propanoate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Porphyrin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Plasmalogen Synthesis,Other,Tumor_vs_Adjacent,3,1.0,3.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Phytanic Acid Peroxisomal Oxidation,Redox,Tumor_vs_Adjacent,3,1.0,1.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Phospholipid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Phosphatidylethanolamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,4.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Pyruvate Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Phosphatidylcholine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.797,4.0,40.56445134403104

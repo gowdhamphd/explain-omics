@@ -1,0 +1,241 @@
+Genus,Microbe_Direction,MicrobeScore,Obj2_Pathway,Functional_Class,Comparison,Evidence_Score,FDR,Hits,LinkScore
+Anoxybacillus,Tumor_up,12.58197455491161,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,37.74592366473483
+Anoxybacillus,Tumor_up,12.58197455491161,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,37.74592366473483
+Azonexus,Tumor_up,2.0,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,6.0
+Azonexus,Tumor_up,2.0,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Azonexus,Tumor_up,2.0,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,6.0
+Azonexus,Tumor_up,2.0,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Azonexus,Tumor_up,2.0,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Azonexus,Tumor_up,2.0,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,6.0
+Azonexus,Tumor_up,2.0,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Azonexus,Tumor_up,2.0,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Azonexus,Tumor_up,2.0,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Azonexus,Tumor_up,2.0,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,6.0
+Azonexus,Tumor_up,2.0,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Azonexus,Tumor_up,2.0,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,6.0
+Azonexus,Tumor_up,2.0,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,6.0
+Azonexus,Tumor_up,2.0,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Azonexus,Tumor_up,2.0,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,6.0
+Chromatium,Tumor_up,6.0,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,18.0
+Chromatium,Tumor_up,6.0,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,18.0
+Chromatium,Tumor_up,6.0,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,18.0
+Chromatium,Tumor_up,6.0,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,18.0
+Chromatium,Tumor_up,6.0,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,18.0
+Chromatium,Tumor_up,6.0,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,18.0
+Chromatium,Tumor_up,6.0,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,18.0
+Chromatium,Tumor_up,6.0,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,18.0
+Chromatium,Tumor_up,6.0,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,18.0
+Chromatium,Tumor_up,6.0,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,18.0
+Chromatium,Tumor_up,6.0,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,18.0
+Chromatium,Tumor_up,6.0,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,18.0
+Chromatium,Tumor_up,6.0,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,18.0
+Chromatium,Tumor_up,6.0,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,18.0
+Chromatium,Tumor_up,6.0,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,18.0
+Clostridioides,Tumor_up,19.11454456404097,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,57.34363369212291
+Clostridioides,Tumor_up,19.11454456404097,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,57.34363369212291
+Collinsella,Tumor_up,4.0,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,12.0
+Collinsella,Tumor_up,4.0,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,12.0
+Collinsella,Tumor_up,4.0,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,12.0
+Collinsella,Tumor_up,4.0,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,12.0
+Collinsella,Tumor_up,4.0,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,12.0
+Collinsella,Tumor_up,4.0,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,12.0
+Collinsella,Tumor_up,4.0,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,12.0
+Collinsella,Tumor_up,4.0,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,12.0
+Collinsella,Tumor_up,4.0,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,12.0
+Collinsella,Tumor_up,4.0,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,12.0
+Collinsella,Tumor_up,4.0,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,12.0
+Collinsella,Tumor_up,4.0,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,12.0
+Collinsella,Tumor_up,4.0,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,12.0
+Collinsella,Tumor_up,4.0,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,12.0
+Collinsella,Tumor_up,4.0,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,12.0
+Cutibacterium,Tumor_up,2.0,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,6.0
+Cutibacterium,Tumor_up,2.0,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Cutibacterium,Tumor_up,2.0,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,6.0
+Cutibacterium,Tumor_up,2.0,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Cutibacterium,Tumor_up,2.0,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Cutibacterium,Tumor_up,2.0,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,6.0
+Cutibacterium,Tumor_up,2.0,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Cutibacterium,Tumor_up,2.0,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Cutibacterium,Tumor_up,2.0,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Cutibacterium,Tumor_up,2.0,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,6.0
+Cutibacterium,Tumor_up,2.0,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Cutibacterium,Tumor_up,2.0,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,6.0
+Cutibacterium,Tumor_up,2.0,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,6.0
+Cutibacterium,Tumor_up,2.0,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Cutibacterium,Tumor_up,2.0,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,6.0
+Dorea_A,Adjacent_up,8.70614910323963,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,26.11844730971889
+Dorea_A,Adjacent_up,8.70614910323963,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,26.11844730971889
+Emergencia,Adjacent_up,20.6550028931498,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,61.9650086794494
+Emergencia,Adjacent_up,20.6550028931498,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,61.9650086794494
+Legionella,Tumor_up,17.61221115867515,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,52.836633476025455
+Legionella,Tumor_up,17.61221115867515,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,52.836633476025455
+Muricomes,Adjacent_up,2.0,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,6.0
+Muricomes,Adjacent_up,2.0,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Muricomes,Adjacent_up,2.0,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,6.0
+Muricomes,Adjacent_up,2.0,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Muricomes,Adjacent_up,2.0,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Muricomes,Adjacent_up,2.0,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,6.0
+Muricomes,Adjacent_up,2.0,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Muricomes,Adjacent_up,2.0,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Muricomes,Adjacent_up,2.0,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Muricomes,Adjacent_up,2.0,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,6.0
+Muricomes,Adjacent_up,2.0,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,6.0
+Muricomes,Adjacent_up,2.0,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,6.0
+Muricomes,Adjacent_up,2.0,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,6.0
+Muricomes,Adjacent_up,2.0,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,6.0
+Muricomes,Adjacent_up,2.0,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,6.0
+Pseudomonas,Tumor_up,19.0596049896991,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,57.1788149690973
+Pseudomonas,Tumor_up,19.0596049896991,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,57.1788149690973
+Streptomyces,Tumor_up,19.1650563481703,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,57.4951690445109
+Streptomyces,Tumor_up,19.1650563481703,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,57.4951690445109
+Thermococcus,Tumor_up,23.11954687407791,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,69.35864062223372
+Thermococcus,Tumor_up,23.11954687407791,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,69.35864062223372
+UBA2212,Adjacent_up,13.52148378134368,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,40.56445134403104
+UBA2212,Adjacent_up,13.52148378134368,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,40.56445134403104
+Veillonella,Adjacent_up,3.0,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,9.0
+Veillonella,Adjacent_up,3.0,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,9.0
+Veillonella,Adjacent_up,3.0,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,9.0
+Veillonella,Adjacent_up,3.0,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,9.0
+Veillonella,Adjacent_up,3.0,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,9.0
+Veillonella,Adjacent_up,3.0,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,9.0
+Veillonella,Adjacent_up,3.0,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,9.0
+Veillonella,Adjacent_up,3.0,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,9.0
+Veillonella,Adjacent_up,3.0,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,9.0
+Veillonella,Adjacent_up,3.0,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,9.0
+Veillonella,Adjacent_up,3.0,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,9.0
+Veillonella,Adjacent_up,3.0,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,9.0
+Veillonella,Adjacent_up,3.0,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,9.0
+Veillonella,Adjacent_up,3.0,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,9.0
+Veillonella,Adjacent_up,3.0,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,9.0
+Vibrio,Adjacent_up,3.0,Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,1.0,9.0
+Vibrio,Adjacent_up,3.0,Ammonia Recycling,Other,Tumor_vs_Adjacent,3,1.0,2.0,9.0
+Vibrio,Adjacent_up,3.0,Androgen and Estrogen Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,9.0
+Vibrio,Adjacent_up,3.0,Androstenedione Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,9.0
+Vibrio,Adjacent_up,3.0,Arachidonic Acid Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,9.0
+Vibrio,Adjacent_up,3.0,Arginine and Proline Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,6.0,9.0
+Vibrio,Adjacent_up,3.0,Beta Oxidation of Very Long Chain Fatty Acids,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,2.0,9.0
+Vibrio,Adjacent_up,3.0,Beta-Alanine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,3.0,9.0
+Vibrio,Adjacent_up,3.0,Betaine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,9.0
+Vibrio,Adjacent_up,3.0,Bile Acid Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,4.0,9.0
+Vibrio,Adjacent_up,3.0,Biotin Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,2.0,9.0
+Vibrio,Adjacent_up,3.0,Caffeine Metabolism,AminoAcid_or_Nitrogen,Tumor_vs_Adjacent,3,1.0,4.0,9.0
+Vibrio,Adjacent_up,3.0,Cardiolipin Biosynthesis,Other,Tumor_vs_Adjacent,3,1.0,1.0,9.0
+Vibrio,Adjacent_up,3.0,Carnitine Synthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,1.0,3.0,9.0
+Vibrio,Adjacent_up,3.0,Catecholamine Biosynthesis,Lipid_or_Membrane,Tumor_vs_Adjacent,3,0.606,6.0,9.0

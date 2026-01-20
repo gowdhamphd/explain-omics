@@ -1,0 +1,15 @@
+layer,database,host_module,n_sig_pathways
+Epigenetics,KEGG,Module_1__receptor_secretion,94
+Genetics,KEGG,Module_1__receptor_secretion,82
+Epigenetics,GO_BP,Module_60__metabolic_catabolic,73
+Epigenetics,GO_BP,Module_1__receptor_secretion,50
+Genetics,GO_BP,Module_1__receptor_secretion,15
+Epigenetics,GO_BP,Module_20__glycosylation_biosynthetic,14
+Epigenetics,Reactome,Module_1__receptor_secretion,13
+Epigenetics,Reactome,Module_20__glycosylation_biosynthetic,9
+Genetics,GO_BP,Module_20__glycosylation_biosynthetic,8
+Genetics,Reactome,Module_1__receptor_secretion,4
+Epigenetics,KEGG,Module_20__glycosylation_biosynthetic,3
+Genetics,KEGG,Module_20__glycosylation_biosynthetic,3
+Genetics,GO_BP,Module_60__metabolic_catabolic,1
+Genetics,Reactome,Module_20__glycosylation_biosynthetic,1

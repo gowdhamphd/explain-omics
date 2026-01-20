@@ -1,0 +1,79 @@
+Feature_ID,Feature_Type,Supporting_Metabolites,Feature_Name,Comparison,Direction,Functional_Class,Evidence_Level,Evidence_Score,VIP_Score,FDR,Hits
+M2429,Enriched_Pathway,,Alanine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M2486,Enriched_Pathway,,Ammonia Recycling,Tumor_vs_Adjacent,,Other,High,3,,1.0,2.0
+M2496,Enriched_Pathway,,Androgen and Estrogen Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,6.0
+M2503,Enriched_Pathway,,Androstenedione Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M2527,Enriched_Pathway,,Arachidonic Acid Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M2546,Enriched_Pathway,,Arginine and Proline Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,6.0
+M2667,Enriched_Pathway,,Beta Oxidation of Very Long Chain Fatty Acids,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,2.0
+M2668,Enriched_Pathway,,Beta-Alanine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M2671,Enriched_Pathway,,Betaine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M2685,Enriched_Pathway,,Bile Acid Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,4.0
+M2687,Enriched_Pathway,,Biotin Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M2786,Enriched_Pathway,,Caffeine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,4.0
+M2833,Enriched_Pathway,,Cardiolipin Biosynthesis,Tumor_vs_Adjacent,,Other,High,3,,1.0,1.0
+M2835,Enriched_Pathway,,Carnitine Synthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,3.0
+M2850,Enriched_Pathway,,Catecholamine Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,0.606,6.0
+M2931,Enriched_Pathway,,Citric Acid Cycle,Tumor_vs_Adjacent,,Other,High,3,,1.0,1.0
+M3024,Enriched_Pathway,,Cysteine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M3092,Enriched_Pathway,,Degradation of Superoxides,Tumor_vs_Adjacent,,Redox,High,3,,1.0,1.0
+M3393,Enriched_Pathway,,Estrone Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M3398,Enriched_Pathway,,Ethanol Degradation,Tumor_vs_Adjacent,,Other,High,3,,1.0,1.0
+M3454,Enriched_Pathway,,Fatty Acid Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,2.0
+M3455,Enriched_Pathway,,Fatty Acid Elongation In Mitochondria,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,1.0
+M3456,Enriched_Pathway,,Fatty acid Metabolism,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,1.0
+M3489,Enriched_Pathway,,Folate Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M3504,Enriched_Pathway,,Fructose and Mannose Degradation,Tumor_vs_Adjacent,,Other,High,3,,1.0,2.0
+M3530,Enriched_Pathway,,Galactose Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M3600,Enriched_Pathway,,Gluconeogenesis,Tumor_vs_Adjacent,,Other,High,3,,1.0,1.0
+M3603,Enriched_Pathway,,Glucose-Alanine Cycle,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M3610,Enriched_Pathway,,Glutamate Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M3620,Enriched_Pathway,,Glutathione Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M3628,Enriched_Pathway,,Glycerol Phosphate Shuttle,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,2.0
+M3633,Enriched_Pathway,,Glycerolipid Metabolism,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,3.0
+M3640,Enriched_Pathway,,Glycine and Serine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M3731,Enriched_Pathway,,Histidine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M3738,Enriched_Pathway,,Homocysteine Degradation,Tumor_vs_Adjacent,,Other,High,3,,1.0,1.0
+M4120,Enriched_Pathway,,Lysine Degradation,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M4216,Enriched_Pathway,,Methionine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,5.0
+M4277,Enriched_Pathway,,Methylhistidine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M4315,Enriched_Pathway,,Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,1.0
+M4316,Enriched_Pathway,,Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,2.0
+M4317,Enriched_Pathway,,Mitochondrial Electron Transport Chain,Tumor_vs_Adjacent,,Other,High,3,,1.0,1.0
+M4659,Enriched_Pathway,,Nicotinate and Nicotinamide Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M4897,Enriched_Pathway,,Oxidation of Branched Chain Fatty Acids,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,3.0
+M4963,Enriched_Pathway,,Pantothenate and CoA Biosynthesis,Tumor_vs_Adjacent,,Other,High,3,,1.0,3.0
+M5021,Enriched_Pathway,,Pentose Phosphate Pathway,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,1.0
+M5072,Enriched_Pathway,,Phenylacetate Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M5073,Enriched_Pathway,,Phenylalanine and Tyrosine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M5090,Enriched_Pathway,,Phosphatidylcholine Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,0.797,4.0
+M5091,Enriched_Pathway,,Phosphatidylethanolamine Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,0.606,4.0
+M5092,Enriched_Pathway,,Phosphatidylinositol Phosphate Metabolism,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,1.0
+M5104,Enriched_Pathway,,Phospholipid Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,2.0
+M5110,Enriched_Pathway,,Phytanic Acid Peroxisomal Oxidation,Tumor_vs_Adjacent,,Redox,High,3,,1.0,1.0
+M5156,Enriched_Pathway,,Plasmalogen Synthesis,Tumor_vs_Adjacent,,Other,High,3,,1.0,3.0
+M5173,Enriched_Pathway,,Porphyrin Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M5207,Enriched_Pathway,,Propanoate Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M5242,Enriched_Pathway,,Pterine Biosynthesis,Tumor_vs_Adjacent,,Other,High,3,,1.0,3.0
+M5245,Enriched_Pathway,,Purine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,8.0
+M5254,Enriched_Pathway,,Pyrimidine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,8.0
+M5264,Enriched_Pathway,,Pyruvate Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M5299,Enriched_Pathway,,Retinol Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M5307,Enriched_Pathway,,Riboflavin Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M5371,Enriched_Pathway,,Selenoamino Acid Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M5601,Enriched_Pathway,,Spermidine and Spermine Biosynthesis,Tumor_vs_Adjacent,,Other,High,3,,1.0,2.0
+M5608,Enriched_Pathway,,Sphingolipid Metabolism,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,4.0
+M5622,Enriched_Pathway,,Starch and Sucrose Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M5633,Enriched_Pathway,,Steroid Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,2.0
+M5634,Enriched_Pathway,,Steroidogenesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,3.0
+M5686,Enriched_Pathway,,Taurine and Hypotaurine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,0.606,4.0
+M5782,Enriched_Pathway,,Threonine and 2-Oxobutanoate Degradation,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M5791,Enriched_Pathway,,Thyroid hormone synthesis,Tumor_vs_Adjacent,,Hormone,High,3,,1.0,1.0
+M5842,Enriched_Pathway,,Transfer of Acetyl Groups into Mitochondria,Tumor_vs_Adjacent,,Other,High,3,,1.0,2.0
+M5890,Enriched_Pathway,,Tryptophan Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,8.0
+M5901,Enriched_Pathway,,Tyrosine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,0.928,11.0
+M5906,Enriched_Pathway,,Ubiquinone Biosynthesis,Tumor_vs_Adjacent,,Other,High,3,,1.0,1.0
+M5938,Enriched_Pathway,,"Valine, Leucine and Isoleucine Degradation",Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0
+M5976,Enriched_Pathway,,Vitamin B6 Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,3.0
+M5977,Enriched_Pathway,,Vitamin K Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0
+M5983,Enriched_Pathway,,Warburg Effect,Tumor_vs_Adjacent,,Other,High,3,,1.0,2.0

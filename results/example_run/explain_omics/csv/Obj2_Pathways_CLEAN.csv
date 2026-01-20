@@ -1,0 +1,13 @@
+Feature_ID,Feature_Type,Supporting_Metabolites,Obj2_Pathway,Comparison,Direction,Functional_Class,Evidence_Level,Evidence_Score,VIP_Score,FDR,Hits,Feature_Name_clean,Obj2_Pathway_clean
+M2429,Enriched_Pathway,,Alanine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0,alanine metabolism,alanine metabolism
+M5092,Enriched_Pathway,,Phosphatidylinositol Phosphate Metabolism,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,1.0,phosphatidylinositol phosphate metabolism,phosphatidylinositol phosphate metabolism
+M5245,Enriched_Pathway,,Purine Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,8.0,purine metabolism,purine metabolism
+M5242,Enriched_Pathway,,Pterine Biosynthesis,Tumor_vs_Adjacent,,Other,High,3,,1.0,3.0,pterine biosynthesis,pterine biosynthesis
+M5207,Enriched_Pathway,,Propanoate Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0,propanoate metabolism,propanoate metabolism
+M5173,Enriched_Pathway,,Porphyrin Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,1.0,porphyrin metabolism,porphyrin metabolism
+M5156,Enriched_Pathway,,Plasmalogen Synthesis,Tumor_vs_Adjacent,,Other,High,3,,1.0,3.0,plasmalogen synthesis,plasmalogen synthesis
+M5110,Enriched_Pathway,,Phytanic Acid Peroxisomal Oxidation,Tumor_vs_Adjacent,,Redox,High,3,,1.0,1.0,phytanic acid peroxisomal oxidation,phytanic acid peroxisomal oxidation
+M5104,Enriched_Pathway,,Phospholipid Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,1.0,2.0,phospholipid biosynthesis,phospholipid biosynthesis
+M5091,Enriched_Pathway,,Phosphatidylethanolamine Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,0.606,4.0,phosphatidylethanolamine biosynthesis,phosphatidylethanolamine biosynthesis
+M5264,Enriched_Pathway,,Pyruvate Metabolism,Tumor_vs_Adjacent,,AminoAcid_or_Nitrogen,High,3,,1.0,2.0,pyruvate metabolism,pyruvate metabolism
+M5090,Enriched_Pathway,,Phosphatidylcholine Biosynthesis,Tumor_vs_Adjacent,,Lipid_or_Membrane,High,3,,0.797,4.0,phosphatidylcholine biosynthesis,phosphatidylcholine biosynthesis

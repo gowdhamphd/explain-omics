@@ -1,0 +1,1567 @@
+Source,Target,EdgeType,Weight
+Module_1__receptor_secretion,Alanine Metabolism,Pathway-Host,2341.010411796291
+Module_1__receptor_secretion,Betaine Metabolism,Pathway-Host,2341.010411796291
+Module_1__receptor_secretion,Biotin Metabolism,Pathway-Host,2237.7305406876308
+Module_1__receptor_secretion,Caffeine Metabolism,Pathway-Host,2275.9823448019492
+Module_1__receptor_secretion,ADA,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ADA2,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ADCY1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ADCY10,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ADCY2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ADCY3,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ADCY4,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ADCY5,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ADCY7,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ADCY8,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ADCY9,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ADSL,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ADSS1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ADSS2,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,AK3,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,AK4,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,AK7,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,AK9,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ALB,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ALDH6A1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,ALLC,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ALOX5,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,AMPD2,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,AMPD3,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ASGR1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ASGR2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ATF6B,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ATP1A1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ATP1A2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ATP1A3,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ATP1A4,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ATP1B1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ATP1B2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ATP1B4,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,BMP15,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,BMP6,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,CANT1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,CANX,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,CDIPT,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,CREB3L1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,CREB3L2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,CREB3L3,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,CREB5,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,CYP11A1,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,CYP17A1,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,CYP19A1,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,CYP1A1,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,CYP1B1,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,DGUOK,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,DUOX1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,DUOX2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,DUOXA2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ENPP1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ENPP3,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ENPP4,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ENTPD1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,ENTPD5,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,FIG4,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,FSHB,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,FXYD2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,GART,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,GDA,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,GNAQ,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,GNAS,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,GPX1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,GPX3,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,GPX5,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,GPX6,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,GPX7,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,GSR,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,GUCY1A1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,GUCY1A2,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,GUCY1B1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,GUCY2C,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,GUCY2D,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,GUCY2F,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,HSD17B1,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,HSD17B2,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,IGF1,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,IGF1R,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,IMPDH2,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,INPP1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,INPP4A,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,INPP4B,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,INPP5A,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,INPP5B,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,INPP5D,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,INPP5F,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,INPPL1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,INS,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,INSR,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,IP6K3,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,IPMK,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,IPPK,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,ITPKB,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,ITPKC,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,ITPR1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ITPR2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,ITPR3,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,IYD,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,JMJD7-PLA2G4B,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,LDLR,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,LHCGR,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,LRP2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,MINPP1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,MTM1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,MTMR1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,MTMR14,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,MTMR3,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,MTMR4,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,MTMR6,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,MTMR8,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,NME3,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,NME4,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,NME7,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,NPR1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,NPR2,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,NT5C1A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,NT5C1B,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,NT5C1B-RDH14,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,NT5E,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,NUDT16,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,OCRL,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PAX8,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,PDE10A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE11A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE1A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE1C,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE2A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE3A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE4A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE4B,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE4D,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE5A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE6A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE6B,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE6C,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE6D,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDE9A,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PDIA4,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,PGM2,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PI4KA,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIK3C2A,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIK3C2B,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIK3C2G,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIK3C3,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIK3CA,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIK3CD,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIKFYVE,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIP4K2B,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIP4K2C,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIP5K1A,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIP5K1B,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PIP5KL1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PLA2G4A,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,PLA2G4B,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,PLA2G4C,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,PLA2G4D,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,PLA2G4E,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,PLA2G4F,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,PLCB1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,PLCB2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,PLCB3,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PLCB4,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,PLCD1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PLCE1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PLCG1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PLCG2,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PLCH1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PLCH2,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PLCZ1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PPAT,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PPIP5K1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PPIP5K2,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PRKACA,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,PRKCA,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,PRKCB,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,PRKCG,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,PRPS1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PRPS1L1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PRUNE1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,PTEN,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,PTGS2,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,RRM1,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,RRM2,Host-Gene,1.334589913340493
+Module_1__receptor_secretion,SCARB1,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,SERPINA7,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,SLC26A4,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,SLC5A5,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,STAR,Host-Gene,1.4366370814095537
+Module_1__receptor_secretion,SYNJ1,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,SYNJ2,Host-Gene,3.949001091461268
+Module_1__receptor_secretion,TG,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,TPO,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,TSHB,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,TSHR,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,TTF1,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,TTF2,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,TTR,Host-Gene,4.490791413796576
+Module_1__receptor_secretion,XDH,Host-Gene,1.334589913340493
+Module_32__development_morphogenesis,BMP4,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,ESR1,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,FGF1,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,FGF10,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,FGFR2,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,HNF1B,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,HOXD13,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,NKD1,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,PPP2R3A,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,PTK7,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,SFRP1,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,SFRP2,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,SHH,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,SIX1,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,SOX9,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,SPRY1,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,SPRY2,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,TFAP2C,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,TNC,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,VANGL2,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,WNT11,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,WNT3A,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,WNT5A,Host-Gene,1.756175305149035
+Module_32__development_morphogenesis,YAP1,Host-Gene,1.756175305149035
+Module_21__transport_lipid,ABCA1,Host-Gene,1.926148295197548
+Module_21__transport_lipid,ABCA3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ABCG5,Host-Gene,1.926148295197548
+Module_21__transport_lipid,ABCG8,Host-Gene,1.926148295197548
+Module_21__transport_lipid,ABHD12,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ABHD12B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ABHD2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ABHD3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ABHD6,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ABHD8,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ACSL1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,AGK,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,AGPAT1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,AGPAT2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,AGPAT3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,AGPAT4,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ALOX15,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ANGPTL4,Host-Gene,1.926148295197548
+Module_21__transport_lipid,APOA1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,APOA5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,APOB,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,APOBEC1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,APOC1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,APOC2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,APOC3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,APOE,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,APOF,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,APOH,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ATM,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,AVIL,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,BECN1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,BLVRA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,BMX,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,C3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CAPN2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CAV1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CAV3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CD36,Host-Gene,1.926148295197548
+Module_21__transport_lipid,CHAT,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CHKA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CHRM5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CIDEB,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CIDEC,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CPS1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CPT1A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CRLS1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CWH43,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,CYP27A1,Host-Gene,1.926148295197548
+Module_21__transport_lipid,DAGLA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DAGLB,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DDHD2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGAT1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGAT2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGAT2L6,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGKA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGKB,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGKD,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGKG,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGKI,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGKK,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGKQ,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DGKZ,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,DPM2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,EFR3B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ENPP2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ENPP6,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ETNK1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ETNK2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,FABP3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,FABP5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,FBXW7,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,FIG4,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,FITM2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,FUT1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GAL3ST1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GALR2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GDE1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GDPD3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GK,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GK2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GK5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GNB3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GPIHBP1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GPLD1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GPR82,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,GPX1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,HADHA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,HTR2A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,HTR2B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,HTR2C,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,INPP1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,INPP4A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,INPP4B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,INPP5A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,INPP5B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,INPP5E,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,INPP5F,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,INPP5J,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,INPP5K,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,IP6K1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,IP6K2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,IP6K3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ITPKA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,ITPKB,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LCAT,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LDLR,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LDLRAP1,Host-Gene,1.926148295197548
+Module_21__transport_lipid,LIPA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LIPC,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LIPE,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LIPG,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LIPH,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LMF1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LPA,Host-Gene,1.926148295197548
+Module_21__transport_lipid,LPCAT1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LPCAT3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LPIN1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LPIN2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LPIN3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LPL,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,LRP1,Host-Gene,1.926148295197548
+Module_21__transport_lipid,LRP2,Host-Gene,1.926148295197548
+Module_21__transport_lipid,LRPAP1,Host-Gene,1.926148295197548
+Module_21__transport_lipid,LYPLA2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MBOAT1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MBOAT2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MBOAT7,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MECP2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MFSD2A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MGLL,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MOGAT1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MOGAT2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MOGAT3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MTMR1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MTMR3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MTMR4,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MTMR7,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MTMR8,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,MYLIP,Host-Gene,1.926148295197548
+Module_21__transport_lipid,NAPEPLD,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,NCEH1,Host-Gene,1.926148295197548
+Module_21__transport_lipid,NKX2-3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,NR1H2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,NR1H3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,NR1H4,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,OC90,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,OCRL,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,OSBPL10,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,OSBPL5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PCK1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PCK2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PCSK9,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PCYT1A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PCYT1B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PCYT2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PDGFA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PDGFB,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PEMT,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PGAP1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PGAP2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PGAP3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PGS1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PHB2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PI4KB,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIGA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIGL,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIGQ,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIGS,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIGT,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIGV,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIGW,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIGX,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIGZ,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIK3C2A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIK3C2B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIK3CA,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIK3CB,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIK3CD,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIK3R1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIK3R5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIP4K2A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIP4K2B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIP5K1A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIP5K1B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIP5K1C,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PIP5KL1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PISD,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PITPNM1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PITPNM2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PITPNM3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA1A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G1B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G2A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G2C,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G2D,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G4A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G4B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G4C,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G4D,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G4E,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G4F,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLA2G7,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLB1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCB1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCB2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCB4,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCD1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCE1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCG1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCG2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCH1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCH2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCL1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLCL2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLD1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLD2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLIN5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PLTP,Host-Gene,1.926148295197548
+Module_21__transport_lipid,PNLIP,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PNLIPRP1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PNPLA1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PNPLA2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PNPLA3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PNPLA4,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PNPLA5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PNPLA6,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PNPLA7,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PON1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PRDX6,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PRKAA1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PTDSS1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PTDSS2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PTPN11,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,PTPRQ,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SCARB1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SERINC2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SERINC5,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SERPINA12,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SH3YL1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SLC22A4,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SLC27A1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SLC44A1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SLC44A2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SLC44A3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SLC44A4,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SOAT1,Host-Gene,1.926148295197548
+Module_21__transport_lipid,SOAT2,Host-Gene,1.926148295197548
+Module_21__transport_lipid,SORL1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SORT1,Host-Gene,1.926148295197548
+Module_21__transport_lipid,SPATA18,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,SREBF1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,STAR,Host-Gene,1.926148295197548
+Module_21__transport_lipid,STARD3,Host-Gene,1.926148295197548
+Module_21__transport_lipid,SYNJ2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,TBL1XR1,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,THRSP,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,TNFAIP8L3,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,TNXB,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,TPTE2,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,TTC7A,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,TTC7B,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,UVRAG,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,VAC14,Host-Gene,3.0639789082794726
+Module_21__transport_lipid,VDAC1,Host-Gene,1.926148295197548
+Module_3__growth_development,ABCA2,Host-Gene,9.92891225163916
+Module_3__growth_development,ABCC8,Host-Gene,9.92891225163916
+Module_3__growth_development,ABL1,Host-Gene,9.92891225163916
+Module_3__growth_development,ADORA2A,Host-Gene,9.92891225163916
+Module_3__growth_development,AGER,Host-Gene,9.92891225163916
+Module_3__growth_development,AKT1,Host-Gene,9.92891225163916
+Module_3__growth_development,AKT2,Host-Gene,9.92891225163916
+Module_3__growth_development,ANO1,Host-Gene,9.92891225163916
+Module_3__growth_development,APCDD1,Host-Gene,9.92891225163916
+Module_3__growth_development,ARHGEF10,Host-Gene,9.92891225163916
+Module_3__growth_development,ARSG,Host-Gene,9.92891225163916
+Module_3__growth_development,ASCL1,Host-Gene,9.92891225163916
+Module_3__growth_development,ASCL2,Host-Gene,9.92891225163916
+Module_3__growth_development,ATOH1,Host-Gene,9.92891225163916
+Module_3__growth_development,ATP1B2,Host-Gene,9.92891225163916
+Module_3__growth_development,ATXN1,Host-Gene,9.92891225163916
+Module_3__growth_development,B4GALT6,Host-Gene,9.92891225163916
+Module_3__growth_development,BIN1,Host-Gene,9.92891225163916
+Module_3__growth_development,BMP2,Host-Gene,9.92891225163916
+Module_3__growth_development,BNIP3,Host-Gene,9.92891225163916
+Module_3__growth_development,C1QA,Host-Gene,9.92891225163916
+Module_3__growth_development,CCDC85C,Host-Gene,9.92891225163916
+Module_3__growth_development,CCL2,Host-Gene,9.92891225163916
+Module_3__growth_development,CD9,Host-Gene,9.92891225163916
+Module_3__growth_development,CDH2,Host-Gene,9.92891225163916
+Module_3__growth_development,CDK5,Host-Gene,9.92891225163916
+Module_3__growth_development,CDK5R1,Host-Gene,9.92891225163916
+Module_3__growth_development,CDK5R2,Host-Gene,9.92891225163916
+Module_3__growth_development,CDK6,Host-Gene,9.92891225163916
+Module_3__growth_development,CHRM1,Host-Gene,9.92891225163916
+Module_3__growth_development,CLCF1,Host-Gene,9.92891225163916
+Module_3__growth_development,CLU,Host-Gene,9.92891225163916
+Module_3__growth_development,CNP,Host-Gene,9.92891225163916
+Module_3__growth_development,CNTF,Host-Gene,9.92891225163916
+Module_3__growth_development,CNTN1,Host-Gene,9.92891225163916
+Module_3__growth_development,CNTN2,Host-Gene,9.92891225163916
+Module_3__growth_development,CNTNAP1,Host-Gene,9.92891225163916
+Module_3__growth_development,COL3A1,Host-Gene,9.92891225163916
+Module_3__growth_development,COL6A1,Host-Gene,9.92891225163916
+Module_3__growth_development,CRB1,Host-Gene,9.92891225163916
+Module_3__growth_development,CSF1,Host-Gene,9.92891225163916
+Module_3__growth_development,CSF1R,Host-Gene,9.92891225163916
+Module_3__growth_development,CSK,Host-Gene,9.92891225163916
+Module_3__growth_development,CSPG4,Host-Gene,9.92891225163916
+Module_3__growth_development,CSPG5,Host-Gene,9.92891225163916
+Module_3__growth_development,CUL4B,Host-Gene,9.92891225163916
+Module_3__growth_development,CX3CL1,Host-Gene,9.92891225163916
+Module_3__growth_development,CX3CR1,Host-Gene,9.92891225163916
+Module_3__growth_development,DAAM2,Host-Gene,9.92891225163916
+Module_3__growth_development,DAB1,Host-Gene,9.92891225163916
+Module_3__growth_development,DAB2IP,Host-Gene,9.92891225163916
+Module_3__growth_development,DAG1,Host-Gene,9.92891225163916
+Module_3__growth_development,DICER1,Host-Gene,9.92891225163916
+Module_3__growth_development,DISC1,Host-Gene,9.92891225163916
+Module_3__growth_development,DLG5,Host-Gene,9.92891225163916
+Module_3__growth_development,DLL1,Host-Gene,9.92891225163916
+Module_3__growth_development,DLX1,Host-Gene,9.92891225163916
+Module_3__growth_development,DLX2,Host-Gene,9.92891225163916
+Module_3__growth_development,DNER,Host-Gene,9.92891225163916
+Module_3__growth_development,DRD1,Host-Gene,9.92891225163916
+Module_3__growth_development,DRD3,Host-Gene,9.92891225163916
+Module_3__growth_development,DTX1,Host-Gene,9.92891225163916
+Module_3__growth_development,DUSP10,Host-Gene,9.92891225163916
+Module_3__growth_development,EEF2,Host-Gene,9.92891225163916
+Module_3__growth_development,EGR2,Host-Gene,9.92891225163916
+Module_3__growth_development,EIF2B3,Host-Gene,9.92891225163916
+Module_3__growth_development,EIF2B5,Host-Gene,9.92891225163916
+Module_3__growth_development,EMX1,Host-Gene,9.92891225163916
+Module_3__growth_development,EOMES,Host-Gene,9.92891225163916
+Module_3__growth_development,EPHA4,Host-Gene,9.92891225163916
+Module_3__growth_development,EPM2A,Host-Gene,9.92891225163916
+Module_3__growth_development,ERBB2,Host-Gene,9.92891225163916
+Module_3__growth_development,ERBB3,Host-Gene,9.92891225163916
+Module_3__growth_development,ERCC2,Host-Gene,9.92891225163916
+Module_3__growth_development,ETV5,Host-Gene,9.92891225163916
+Module_3__growth_development,EZH2,Host-Gene,9.92891225163916
+Module_3__growth_development,F2,Host-Gene,9.92891225163916
+Module_3__growth_development,FA2H,Host-Gene,9.92891225163916
+Module_3__growth_development,FGF10,Host-Gene,9.92891225163916
+Module_3__growth_development,FGF2,Host-Gene,9.92891225163916
+Module_3__growth_development,FGF5,Host-Gene,9.92891225163916
+Module_3__growth_development,FKRP,Host-Gene,9.92891225163916
+Module_3__growth_development,FOXG1,Host-Gene,9.92891225163916
+Module_3__growth_development,FPR2,Host-Gene,9.92891225163916
+Module_3__growth_development,FYN,Host-Gene,9.92891225163916
+Module_3__growth_development,GAP43,Host-Gene,9.92891225163916
+Module_3__growth_development,GCM1,Host-Gene,9.92891225163916
+Module_3__growth_development,GCM2,Host-Gene,9.92891225163916
+Module_3__growth_development,GFAP,Host-Gene,9.92891225163916
+Module_3__growth_development,GLI3,Host-Gene,9.92891225163916
+Module_3__growth_development,GPC1,Host-Gene,9.92891225163916
+Module_3__growth_development,GPM6B,Host-Gene,9.92891225163916
+Module_3__growth_development,GPR17,Host-Gene,9.92891225163916
+Module_3__growth_development,GRB2,Host-Gene,9.92891225163916
+Module_3__growth_development,GRN,Host-Gene,9.92891225163916
+Module_3__growth_development,GSTP1,Host-Gene,9.92891225163916
+Module_3__growth_development,GSX2,Host-Gene,9.92891225163916
+Module_3__growth_development,HDAC1,Host-Gene,9.92891225163916
+Module_3__growth_development,HES5,Host-Gene,9.92891225163916
+Module_3__growth_development,HMGA2,Host-Gene,9.92891225163916
+Module_3__growth_development,ID4,Host-Gene,9.92891225163916
+Module_3__growth_development,IFNG,Host-Gene,9.92891225163916
+Module_3__growth_development,IFNGR1,Host-Gene,9.92891225163916
+Module_3__growth_development,IGF1,Host-Gene,9.92891225163916
+Module_3__growth_development,IL1B,Host-Gene,9.92891225163916
+Module_3__growth_development,IL34,Host-Gene,9.92891225163916
+Module_3__growth_development,IL6,Host-Gene,9.92891225163916
+Module_3__growth_development,ILK,Host-Gene,9.92891225163916
+Module_3__growth_development,ITGB4,Host-Gene,9.92891225163916
+Module_3__growth_development,KCNJ10,Host-Gene,9.92891225163916
+Module_3__growth_development,LAMA2,Host-Gene,9.92891225163916
+Module_3__growth_development,LAMB1,Host-Gene,9.92891225163916
+Module_3__growth_development,LAMB2,Host-Gene,9.92891225163916
+Module_3__growth_development,LAMC3,Host-Gene,9.92891225163916
+Module_3__growth_development,LDLR,Host-Gene,9.92891225163916
+Module_3__growth_development,LEF1,Host-Gene,9.92891225163916
+Module_3__growth_development,LEPR,Host-Gene,9.92891225163916
+Module_3__growth_development,LGI4,Host-Gene,9.92891225163916
+Module_3__growth_development,LIF,Host-Gene,9.92891225163916
+Module_3__growth_development,LPAR1,Host-Gene,9.92891225163916
+Module_3__growth_development,LRP1,Host-Gene,9.92891225163916
+Module_3__growth_development,LRP2,Host-Gene,9.92891225163916
+Module_3__growth_development,LRP8,Host-Gene,9.92891225163916
+Module_3__growth_development,LTA,Host-Gene,9.92891225163916
+Module_3__growth_development,LYN,Host-Gene,9.92891225163916
+Module_3__growth_development,MAG,Host-Gene,9.92891225163916
+Module_3__growth_development,MAL,Host-Gene,9.92891225163916
+Module_3__growth_development,MAP2K2,Host-Gene,9.92891225163916
+Module_3__growth_development,MAPK3,Host-Gene,9.92891225163916
+Module_3__growth_development,MAPT,Host-Gene,9.92891225163916
+Module_3__growth_development,MATN2,Host-Gene,9.92891225163916
+Module_3__growth_development,MBOAT7,Host-Gene,9.92891225163916
+Module_3__growth_development,MECP2,Host-Gene,9.92891225163916
+Module_3__growth_development,METRN,Host-Gene,9.92891225163916
+Module_3__growth_development,MIR125B1,Host-Gene,9.92891225163916
+Module_3__growth_development,MIR181C,Host-Gene,9.92891225163916
+Module_3__growth_development,MIR221,Host-Gene,9.92891225163916
+Module_3__growth_development,MIR222,Host-Gene,9.92891225163916
+Module_3__growth_development,MIR26A1,Host-Gene,9.92891225163916
+Module_3__growth_development,MMP14,Host-Gene,9.92891225163916
+Module_3__growth_development,MTOR,Host-Gene,9.92891225163916
+Module_3__growth_development,MXRA8,Host-Gene,9.92891225163916
+Module_3__growth_development,MYB,Host-Gene,9.92891225163916
+Module_3__growth_development,MYOC,Host-Gene,9.92891225163916
+Module_3__growth_development,NAB2,Host-Gene,9.92891225163916
+Module_3__growth_development,NAGLU,Host-Gene,9.92891225163916
+Module_3__growth_development,NDN,Host-Gene,9.92891225163916
+Module_3__growth_development,NDP,Host-Gene,9.92891225163916
+Module_3__growth_development,NDRG1,Host-Gene,9.92891225163916
+Module_3__growth_development,NDUFS2,Host-Gene,9.92891225163916
+Module_3__growth_development,NEGR1,Host-Gene,9.92891225163916
+Module_3__growth_development,NEUROD4,Host-Gene,9.92891225163916
+Module_3__growth_development,NF1,Host-Gene,9.92891225163916
+Module_3__growth_development,NF2,Host-Gene,9.92891225163916
+Module_3__growth_development,NFE2L1,Host-Gene,9.92891225163916
+Module_3__growth_development,NFIA,Host-Gene,9.92891225163916
+Module_3__growth_development,NFIB,Host-Gene,9.92891225163916
+Module_3__growth_development,NKX2-1,Host-Gene,9.92891225163916
+Module_3__growth_development,NKX2-2,Host-Gene,9.92891225163916
+Module_3__growth_development,NKX6-1,Host-Gene,9.92891225163916
+Module_3__growth_development,NKX6-2,Host-Gene,9.92891225163916
+Module_3__growth_development,NOTCH1,Host-Gene,9.92891225163916
+Module_3__growth_development,NR1D1,Host-Gene,9.92891225163916
+Module_3__growth_development,NR2E1,Host-Gene,9.92891225163916
+Module_3__growth_development,NR3C1,Host-Gene,9.92891225163916
+Module_3__growth_development,NTN1,Host-Gene,9.92891225163916
+Module_3__growth_development,NTRK2,Host-Gene,9.92891225163916
+Module_3__growth_development,NTRK3,Host-Gene,9.92891225163916
+Module_3__growth_development,OLIG1,Host-Gene,9.92891225163916
+Module_3__growth_development,OLIG2,Host-Gene,9.92891225163916
+Module_3__growth_development,P2RX4,Host-Gene,9.92891225163916
+Module_3__growth_development,P2RY1,Host-Gene,9.92891225163916
+Module_3__growth_development,PARD3,Host-Gene,9.92891225163916
+Module_3__growth_development,PAX2,Host-Gene,9.92891225163916
+Module_3__growth_development,PAX6,Host-Gene,9.92891225163916
+Module_3__growth_development,PENK,Host-Gene,9.92891225163916
+Module_3__growth_development,PFKFB3,Host-Gene,9.92891225163916
+Module_3__growth_development,PHGDH,Host-Gene,9.92891225163916
+Module_3__growth_development,PHOX2B,Host-Gene,9.92891225163916
+Module_3__growth_development,PITX3,Host-Gene,9.92891225163916
+Module_3__growth_development,PLAG1,Host-Gene,9.92891225163916
+Module_3__growth_development,PLP1,Host-Gene,9.92891225163916
+Module_3__growth_development,POU3F1,Host-Gene,9.92891225163916
+Module_3__growth_development,POU3F2,Host-Gene,9.92891225163916
+Module_3__growth_development,PPP1CC,Host-Gene,9.92891225163916
+Module_3__growth_development,PRDM8,Host-Gene,9.92891225163916
+Module_3__growth_development,PRKCH,Host-Gene,9.92891225163916
+Module_3__growth_development,PRX,Host-Gene,9.92891225163916
+Module_3__growth_development,PTN,Host-Gene,9.92891225163916
+Module_3__growth_development,PTPN11,Host-Gene,9.92891225163916
+Module_3__growth_development,PTPRB,Host-Gene,9.92891225163916
+Module_3__growth_development,PTPRJ,Host-Gene,9.92891225163916
+Module_3__growth_development,PTPRZ1,Host-Gene,9.92891225163916
+Module_3__growth_development,RELA,Host-Gene,9.92891225163916
+Module_3__growth_development,RELN,Host-Gene,9.92891225163916
+Module_3__growth_development,RNF10,Host-Gene,9.92891225163916
+Module_3__growth_development,RNF112,Host-Gene,9.92891225163916
+Module_3__growth_development,ROR1,Host-Gene,9.92891225163916
+Module_3__growth_development,RRAS,Host-Gene,9.92891225163916
+Module_3__growth_development,RTN4,Host-Gene,9.92891225163916
+Module_3__growth_development,S100A8,Host-Gene,9.92891225163916
+Module_3__growth_development,S100A9,Host-Gene,9.92891225163916
+Module_3__growth_development,S100B,Host-Gene,9.92891225163916
+Module_3__growth_development,SCRIB,Host-Gene,9.92891225163916
+Module_3__growth_development,SERPINE2,Host-Gene,9.92891225163916
+Module_3__growth_development,SH3TC2,Host-Gene,9.92891225163916
+Module_3__growth_development,SHH,Host-Gene,9.92891225163916
+Module_3__growth_development,SKI,Host-Gene,9.92891225163916
+Module_3__growth_development,SLC45A3,Host-Gene,9.92891225163916
+Module_3__growth_development,SLC7A5,Host-Gene,9.92891225163916
+Module_3__growth_development,SLC8A3,Host-Gene,9.92891225163916
+Module_3__growth_development,SMO,Host-Gene,9.92891225163916
+Module_3__growth_development,SOCS7,Host-Gene,9.92891225163916
+Module_3__growth_development,SOD1,Host-Gene,9.92891225163916
+Module_3__growth_development,SOX1,Host-Gene,9.92891225163916
+Module_3__growth_development,SOX10,Host-Gene,9.92891225163916
+Module_3__growth_development,SOX11,Host-Gene,9.92891225163916
+Module_3__growth_development,SOX13,Host-Gene,9.92891225163916
+Module_3__growth_development,SOX2,Host-Gene,9.92891225163916
+Module_3__growth_development,SOX6,Host-Gene,9.92891225163916
+Module_3__growth_development,SOX8,Host-Gene,9.92891225163916
+Module_3__growth_development,SOX9,Host-Gene,9.92891225163916
+Module_3__growth_development,SPINT1,Host-Gene,9.92891225163916
+Module_3__growth_development,SRGAP2,Host-Gene,9.92891225163916
+Module_3__growth_development,STAT3,Host-Gene,9.92891225163916
+Module_3__growth_development,SYNE2,Host-Gene,9.92891225163916
+Module_3__growth_development,TAL1,Host-Gene,9.92891225163916
+Module_3__growth_development,TGFB2,Host-Gene,9.92891225163916
+Module_3__growth_development,TLR2,Host-Gene,9.92891225163916
+Module_3__growth_development,TLR4,Host-Gene,9.92891225163916
+Module_3__growth_development,TMEM98,Host-Gene,9.92891225163916
+Module_3__growth_development,TNF,Host-Gene,9.92891225163916
+Module_3__growth_development,TNFRSF1B,Host-Gene,9.92891225163916
+Module_3__growth_development,TP53,Host-Gene,9.92891225163916
+Module_3__growth_development,TP73,Host-Gene,9.92891225163916
+Module_3__growth_development,TPPP,Host-Gene,9.92891225163916
+Module_3__growth_development,TREM2,Host-Gene,9.92891225163916
+Module_3__growth_development,TRPC4,Host-Gene,9.92891225163916
+Module_3__growth_development,TSPAN2,Host-Gene,9.92891225163916
+Module_3__growth_development,TTBK1,Host-Gene,9.92891225163916
+Module_3__growth_development,TUBA1A,Host-Gene,9.92891225163916
+Module_3__growth_development,VAX1,Host-Gene,9.92891225163916
+Module_3__growth_development,VCAN,Host-Gene,9.92891225163916
+Module_3__growth_development,VEGFC,Host-Gene,9.92891225163916
+Module_3__growth_development,VIM,Host-Gene,9.92891225163916
+Module_3__growth_development,VPS13A,Host-Gene,9.92891225163916
+Module_3__growth_development,VPS54,Host-Gene,9.92891225163916
+Module_3__growth_development,VTN,Host-Gene,9.92891225163916
+Module_3__growth_development,WASF3,Host-Gene,9.92891225163916
+Module_3__growth_development,WDR1,Host-Gene,9.92891225163916
+Module_3__growth_development,ZEB2,Host-Gene,9.92891225163916
+Module_3__growth_development,ZMIZ1,Host-Gene,9.92891225163916
+Module_3__growth_development,ZNF365,Host-Gene,9.92891225163916
+Module_3__growth_development,ZNF488,Host-Gene,9.92891225163916
+Module_4__collagen_organization,A2M,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ACAN,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ADAMTS1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ADAMTS16,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ADAMTS18,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ADAMTS4,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ADAMTS5,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ADAMTS8,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ADAMTS9,Host-Gene,3.567745955366255
+Module_4__collagen_organization,BCAN,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN10,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN11,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN12,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN13,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN14,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN5,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN6,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN8,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CAPN9,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CMA1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL11A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL11A2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL12A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL13A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL14A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL15A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL16A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL17A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL19A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL1A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL1A2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL23A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL25A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL4A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL4A2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL4A3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL4A4,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL4A6,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL5A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL5A2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL5A3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL6A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL6A2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL6A3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL6A6,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL7A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL8A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL8A2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL9A1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL9A2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,COL9A3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CTSB,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CTSD,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CTSG,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CTSK,Host-Gene,3.567745955366255
+Module_4__collagen_organization,CTSS,Host-Gene,3.567745955366255
+Module_4__collagen_organization,DCN,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ELANE,Host-Gene,3.567745955366255
+Module_4__collagen_organization,ELN,Host-Gene,3.567745955366255
+Module_4__collagen_organization,FBN1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,FBN2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,FBN3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,FURIN,Host-Gene,3.567745955366255
+Module_4__collagen_organization,HTRA1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,KLK2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,KLK7,Host-Gene,3.567745955366255
+Module_4__collagen_organization,KLKB1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,LAMA3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,LAMA5,Host-Gene,3.567745955366255
+Module_4__collagen_organization,LAMB1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,LAMB3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,LAMC1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,LAMC2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP10,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP13,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP14,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP16,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP17,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP19,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP25,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP7,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP8,Host-Gene,3.567745955366255
+Module_4__collagen_organization,MMP9,Host-Gene,3.567745955366255
+Module_4__collagen_organization,NID1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,OPTC,Host-Gene,3.567745955366255
+Module_4__collagen_organization,PRSS1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,SCUBE1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,SCUBE3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,SPOCK3,Host-Gene,3.567745955366255
+Module_4__collagen_organization,TIMP2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,TLL1,Host-Gene,3.567745955366255
+Module_4__collagen_organization,TLL2,Host-Gene,3.567745955366255
+Module_4__collagen_organization,TMPRSS6,Host-Gene,3.567745955366255
+Module_60__metabolic_catabolic,AACS,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ABCD1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ABCD3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ABCD4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ABHD1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ABHD12,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ABHD2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ABHD3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ABHD6,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACACA,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACACB,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACAD10,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACADL,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACADS,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACADVL,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACAT2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACBD4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACBD5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACLY,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACOT11,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACOT12,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACOT7,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACOT8,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACOX1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACOX2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACOX3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACOXL,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSBG1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSF2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSF3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSL1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSL4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSL5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSL6,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSM4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSM5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSS1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACSS2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ACTN3,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,ADH4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ADH5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ADIPOQ,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ADIPOR1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ADPGK,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,AIG1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,AKR1B1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,AKT1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,AKT2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ALDH1L2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ALDOA,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,ALDOB,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,ALDOC,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,ALKBH7,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ALOX12,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ALOX12B,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ALOX15,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ALOX15B,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ALOX5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ALOXE3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ANGPTL4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ANKRD23,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,AOAH,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,APOA5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,APOC1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,APOC2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,APOC3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ARL2,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,ARNT,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,ASAH1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ATP6V1B1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,AUH,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,AVP,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,AVPR1A,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,BAAT,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,BCKDK,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,BLVRA,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,BPGM,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,C3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CAV1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CBFA2T3,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,CBR1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CBR4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CD36,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CD74,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CES1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,COL6A1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,COMT,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CPT1A,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CPT1B,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CPT1C,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CPT2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CRAT,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CRYL1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CTHRC1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYGB,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP1A1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP1A2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP1B1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP2B6,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP2C18,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP2C19,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP2C9,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP2E1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP2F1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP2S1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP2U1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP4F11,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP4F2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP4F3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,CYP4F8,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,DAGLA,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,DAGLB,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,DCAF5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,DEGS1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,DGAT2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ECH1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ECHDC1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ECHDC2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,EDN1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,EDN2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ELOVL2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ELOVL3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ELOVL4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ELOVL5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ELOVL6,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ELOVL7,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ENO1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,EPHX1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ERLIN1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ETFB,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FA2H,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FAAH2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FABP3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FABP5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FADS1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FADS2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FADS6,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FASN,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FBP1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,FKRP,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,FLCN,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,FMO1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FMO2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,FOXK1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,FOXK2,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,GALK1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,GAPDHS,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,GCK,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,GDF15,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,GGT1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,GHSR,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,GIP,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,GIT1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,GLYATL2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,GPD1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,GPIHBP1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,GPR87,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,GPX1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,GSTM2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,GSTM4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,GSTP1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,HADH,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,HADHA,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,HAO1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,HAO2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,HDAC4,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,HK1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,HK2,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,HK3,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,HPGD,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,HSD17B10,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,HSD17B12,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,HSD17B8,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,HTR2A,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,IFNG,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,IGF1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,IL1B,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,INS,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,INSR,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,IRS1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,IRS2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,KAT2B,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,KLHL25,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LDHA,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,LDHAL6A,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,LDHB,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,LDHC,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,LEP,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LIPA,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LIPC,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LIPG,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LONP2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LPIN1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LPIN2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LPIN3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LPL,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LTC4S,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LYPLA1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,LYPLA2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MAPK14,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,ME1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,ME3,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,MECR,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MFSD2A,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MGLL,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MID1IP1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MIR204,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MIR766,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MIR96,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MLST8,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,MLXIPL,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MORC2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,MTOR,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,NCOR1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,NFE2L1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,NR1H2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,NR1H3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,NUDT8,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,NUPR1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,OGDH,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,OGDHL,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,OLAH,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,OXSM,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,P2RX7,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PCCA,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PCCB,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PCK1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PCK2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PDHX,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PDK2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PDK3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PDK4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PDP1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PER2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PEX7,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PFKFB1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PFKFB2,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PFKFB3,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PFKFB4,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PFKP,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PGAM2,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PGM1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PKLR,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PLA2G1B,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PLA2G3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PLA2G4A,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PLA2G4B,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PLA2G4C,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PLA2G4D,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PLA2G4F,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PLA2G5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PLIN5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PLP1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PM20D1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PNLIP,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PNLIPRP1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PNPLA3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,POR,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PPARD,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PPARG,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PPARGC1A,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PRKAA1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PRKACA,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,PRKAG2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PRKAG3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PRKAR2B,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PTGDS,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PTGIS,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PTGR2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,PTGS2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,RPTOR,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,SCAP,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SCD,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SCD5,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SCP2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SDS,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,SESN2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SIRT6,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,SLC16A1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,SLC16A3,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,SLC27A1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SLC27A3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SLC27A4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SLC27A6,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SLC45A3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SLC4A1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,SLC4A4,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,SNCA,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SOX9,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,SRC,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,SREBF1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,STAT3,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,TBXAS1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,TECR,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,TECRL,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,THEM4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,THNSL2,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,TMEM135,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,TNFRSF1A,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,TNXB,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,TPK1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,TREX1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,TRIM63,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,TWIST1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UBR4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UCHL1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,UCP2,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,UCP3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UGT1A1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UGT1A10,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UGT1A3,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UGT1A4,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UGT1A6,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UGT1A7,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UGT1A8,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,UGT1A9,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,WDTC1,Host-Gene,1.980317140921151
+Module_60__metabolic_catabolic,XPO4,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,YAP1,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,ZBTB20,Host-Gene,1.6788492015794698
+Module_60__metabolic_catabolic,ZBTB7A,Host-Gene,1.6788492015794698
+Module_20__glycosylation_biosynthetic,Bile Acid Biosynthesis,Pathway-Host,1493.617697226702
+Module_20__glycosylation_biosynthetic,Cardiolipin Biosynthesis,Pathway-Host,1493.617697226702
+Module_20__glycosylation_biosynthetic,BCAN,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,BGN,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CHPF2,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CHST11,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CHST12,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CHST13,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CHST3,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CHST7,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CHST9,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CHSY1,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CHSY3,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CSGALNACT1,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CSPG4,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,CSPG5,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,DCN,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,NCAN,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,UST,Host-Gene,1.5073079137047676
+Module_20__glycosylation_biosynthetic,VCAN,Host-Gene,1.5073079137047676
+Module_72__amino_catabolic,Beta Oxidation of Very Long Chain Fatty Acids,Pathway-Host,1415.2905714984336
+Module_72__amino_catabolic,ABCB11,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ABCC9,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ABCD1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ABCD2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ABCD3,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ABCD4,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACAA1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACAA2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACACB,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACAD10,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACAD11,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACADL,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACOX1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACOX3,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACOXL,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ACSM1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ADH5,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ADH7,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ADIPOR2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,AKT1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,AKT2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ALOX15,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,AMACR,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,APPL2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,AUH,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,CPT1A,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,CPT1B,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,CPT2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,CRAT,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,CROT,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,DECR1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,DGAT2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ECHDC2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ECI1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ECI2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,EHHADH,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ETFB,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ETFBKMT,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,ETFDH,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,FMO1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,FMO2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,FMO4,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,GDF15,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,HACL1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,HADHA,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,HADHB,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,HAO1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,HSD17B4,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,IRS1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,KLHL25,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,LONP2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,MAPK14,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PDK4,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PEX13,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PEX2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PEX5,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PEX7,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PHYH,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PLIN5,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,POR,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PPARA,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PPARD,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PPARGC1A,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PRKAA1,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,PRKAG2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,SLC27A2,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,SOX9,Host-Gene,2.2263575735952688
+Module_72__amino_catabolic,TYSND1,Host-Gene,2.2263575735952688
+Module_52__metabolic_biosynthetic,Catecholamine Biosynthesis,Pathway-Host,1268.4076659207803
+Module_52__metabolic_biosynthetic,ALDH2,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,ATP7A,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,DAO,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,DBH,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,DDC,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,GATA3,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,GCH1,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,GPR37,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,HAND2,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,HDC,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,INSM1,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,KL,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,MOXD1,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,NR4A2,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,NT5DC2,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,PAH,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,PARK7,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,SLC6A3,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,SNCA,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,TGFB2,Host-Gene,2.6276428084897177
+Module_52__metabolic_biosynthetic,TH,Host-Gene,2.6276428084897177
+Module_196__alanine_aspartate,ABAT,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,ADSL,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,ADSS1,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,ADSS2,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,AGXT2,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,ALDH5A1,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,ASL,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,ASNS,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,ASS1,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,CAD,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,CPS1,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,FOLH1,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,GAD1,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,GAD2,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,GFPT2,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,GLS,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,GLUD2,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,GLUL,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,GOT1L1,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,GPT,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,GPT2,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,IL4I1,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,NAT8L,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,PPAT,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,RIMKLA,Host-Gene,2.150317895611401
+Module_196__alanine_aspartate,RIMKLB,Host-Gene,2.150317895611401
+Module_125__galactose_metabolic,B4GALT1,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,CHST1,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,GALE,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,GALK1,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,GALK2,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,GALM,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,GALT,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,GLB1L,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,GLB1L2,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,GLB1L3,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,PGM1,Host-Gene,1.8869187027308232
+Module_125__galactose_metabolic,SLC35A2,Host-Gene,1.8869187027308232
+Module_160__transport_urate,ABCC4,Host-Gene,1.5023967263183537
+Module_160__transport_urate,ABCG2,Host-Gene,1.5023967263183537
+Module_160__transport_urate,SLC17A1,Host-Gene,1.5023967263183537
+Module_160__transport_urate,SLC17A2,Host-Gene,1.5023967263183537
+Module_160__transport_urate,SLC17A3,Host-Gene,1.5023967263183537
+Module_160__transport_urate,SLC17A4,Host-Gene,1.5023967263183537
+Module_160__transport_urate,SLC22A12,Host-Gene,1.5023967263183537
+Module_160__transport_urate,SLC23A1,Host-Gene,1.5023967263183537
+Module_160__transport_urate,SLC2A9,Host-Gene,1.5023967263183537
+Module_160__transport_urate,UMOD,Host-Gene,1.5023967263183537
+Alanine Metabolism,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Alanine Metabolism,Azonexus,Microbe-Pathway,6.0
+Alanine Metabolism,Chromatium,Microbe-Pathway,18.0
+Alanine Metabolism,Clostridioides,Microbe-Pathway,57.34363369212291
+Alanine Metabolism,Collinsella,Microbe-Pathway,12.0
+Alanine Metabolism,Cutibacterium,Microbe-Pathway,6.0
+Alanine Metabolism,Dorea_A,Microbe-Pathway,26.11844730971889
+Alanine Metabolism,Emergencia,Microbe-Pathway,61.9650086794494
+Alanine Metabolism,Legionella,Microbe-Pathway,52.836633476025455
+Alanine Metabolism,Muricomes,Microbe-Pathway,6.0
+Alanine Metabolism,Pseudomonas,Microbe-Pathway,57.1788149690973
+Alanine Metabolism,Streptomyces,Microbe-Pathway,57.4951690445109
+Alanine Metabolism,Thermococcus,Microbe-Pathway,69.35864062223372
+Alanine Metabolism,UBA2212,Microbe-Pathway,40.56445134403104
+Alanine Metabolism,Veillonella,Microbe-Pathway,9.0
+Alanine Metabolism,Vibrio,Microbe-Pathway,9.0
+Ammonia Recycling,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Ammonia Recycling,Azonexus,Microbe-Pathway,6.0
+Ammonia Recycling,Chromatium,Microbe-Pathway,18.0
+Ammonia Recycling,Clostridioides,Microbe-Pathway,57.34363369212291
+Ammonia Recycling,Collinsella,Microbe-Pathway,12.0
+Ammonia Recycling,Cutibacterium,Microbe-Pathway,6.0
+Ammonia Recycling,Dorea_A,Microbe-Pathway,26.11844730971889
+Ammonia Recycling,Emergencia,Microbe-Pathway,61.9650086794494
+Ammonia Recycling,Legionella,Microbe-Pathway,52.836633476025455
+Ammonia Recycling,Muricomes,Microbe-Pathway,6.0
+Ammonia Recycling,Pseudomonas,Microbe-Pathway,57.1788149690973
+Ammonia Recycling,Streptomyces,Microbe-Pathway,57.4951690445109
+Ammonia Recycling,Thermococcus,Microbe-Pathway,69.35864062223372
+Ammonia Recycling,UBA2212,Microbe-Pathway,40.56445134403104
+Ammonia Recycling,Veillonella,Microbe-Pathway,9.0
+Ammonia Recycling,Vibrio,Microbe-Pathway,9.0
+Androgen and Estrogen Metabolism,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Androgen and Estrogen Metabolism,Azonexus,Microbe-Pathway,6.0
+Androgen and Estrogen Metabolism,Chromatium,Microbe-Pathway,18.0
+Androgen and Estrogen Metabolism,Clostridioides,Microbe-Pathway,57.34363369212291
+Androgen and Estrogen Metabolism,Collinsella,Microbe-Pathway,12.0
+Androgen and Estrogen Metabolism,Cutibacterium,Microbe-Pathway,6.0
+Androgen and Estrogen Metabolism,Dorea_A,Microbe-Pathway,26.11844730971889
+Androgen and Estrogen Metabolism,Emergencia,Microbe-Pathway,61.9650086794494
+Androgen and Estrogen Metabolism,Legionella,Microbe-Pathway,52.836633476025455
+Androgen and Estrogen Metabolism,Muricomes,Microbe-Pathway,6.0
+Androgen and Estrogen Metabolism,Pseudomonas,Microbe-Pathway,57.1788149690973
+Androgen and Estrogen Metabolism,Streptomyces,Microbe-Pathway,57.4951690445109
+Androgen and Estrogen Metabolism,Thermococcus,Microbe-Pathway,69.35864062223372
+Androgen and Estrogen Metabolism,UBA2212,Microbe-Pathway,40.56445134403104
+Androgen and Estrogen Metabolism,Veillonella,Microbe-Pathway,9.0
+Androgen and Estrogen Metabolism,Vibrio,Microbe-Pathway,9.0
+Androstenedione Metabolism,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Androstenedione Metabolism,Azonexus,Microbe-Pathway,6.0
+Androstenedione Metabolism,Chromatium,Microbe-Pathway,18.0
+Androstenedione Metabolism,Clostridioides,Microbe-Pathway,57.34363369212291
+Androstenedione Metabolism,Collinsella,Microbe-Pathway,12.0
+Androstenedione Metabolism,Cutibacterium,Microbe-Pathway,6.0
+Androstenedione Metabolism,Dorea_A,Microbe-Pathway,26.11844730971889
+Androstenedione Metabolism,Emergencia,Microbe-Pathway,61.9650086794494
+Androstenedione Metabolism,Legionella,Microbe-Pathway,52.836633476025455
+Androstenedione Metabolism,Muricomes,Microbe-Pathway,6.0
+Androstenedione Metabolism,Pseudomonas,Microbe-Pathway,57.1788149690973
+Androstenedione Metabolism,Streptomyces,Microbe-Pathway,57.4951690445109
+Androstenedione Metabolism,Thermococcus,Microbe-Pathway,69.35864062223372
+Androstenedione Metabolism,UBA2212,Microbe-Pathway,40.56445134403104
+Androstenedione Metabolism,Veillonella,Microbe-Pathway,9.0
+Androstenedione Metabolism,Vibrio,Microbe-Pathway,9.0
+Arachidonic Acid Metabolism,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Arachidonic Acid Metabolism,Azonexus,Microbe-Pathway,6.0
+Arachidonic Acid Metabolism,Chromatium,Microbe-Pathway,18.0
+Arachidonic Acid Metabolism,Clostridioides,Microbe-Pathway,57.34363369212291
+Arachidonic Acid Metabolism,Collinsella,Microbe-Pathway,12.0
+Arachidonic Acid Metabolism,Cutibacterium,Microbe-Pathway,6.0
+Arachidonic Acid Metabolism,Dorea_A,Microbe-Pathway,26.11844730971889
+Arachidonic Acid Metabolism,Emergencia,Microbe-Pathway,61.9650086794494
+Arachidonic Acid Metabolism,Legionella,Microbe-Pathway,52.836633476025455
+Arachidonic Acid Metabolism,Muricomes,Microbe-Pathway,6.0
+Arachidonic Acid Metabolism,Pseudomonas,Microbe-Pathway,57.1788149690973
+Arachidonic Acid Metabolism,Streptomyces,Microbe-Pathway,57.4951690445109
+Arachidonic Acid Metabolism,Thermococcus,Microbe-Pathway,69.35864062223372
+Arachidonic Acid Metabolism,UBA2212,Microbe-Pathway,40.56445134403104
+Arachidonic Acid Metabolism,Veillonella,Microbe-Pathway,9.0
+Arachidonic Acid Metabolism,Vibrio,Microbe-Pathway,9.0
+Arginine and Proline Metabolism,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Arginine and Proline Metabolism,Azonexus,Microbe-Pathway,6.0
+Arginine and Proline Metabolism,Chromatium,Microbe-Pathway,18.0
+Arginine and Proline Metabolism,Clostridioides,Microbe-Pathway,57.34363369212291
+Arginine and Proline Metabolism,Collinsella,Microbe-Pathway,12.0
+Arginine and Proline Metabolism,Cutibacterium,Microbe-Pathway,6.0
+Arginine and Proline Metabolism,Dorea_A,Microbe-Pathway,26.11844730971889
+Arginine and Proline Metabolism,Emergencia,Microbe-Pathway,61.9650086794494
+Arginine and Proline Metabolism,Legionella,Microbe-Pathway,52.836633476025455
+Arginine and Proline Metabolism,Muricomes,Microbe-Pathway,6.0
+Arginine and Proline Metabolism,Pseudomonas,Microbe-Pathway,57.1788149690973
+Arginine and Proline Metabolism,Streptomyces,Microbe-Pathway,57.4951690445109
+Arginine and Proline Metabolism,Thermococcus,Microbe-Pathway,69.35864062223372
+Arginine and Proline Metabolism,UBA2212,Microbe-Pathway,40.56445134403104
+Arginine and Proline Metabolism,Veillonella,Microbe-Pathway,9.0
+Arginine and Proline Metabolism,Vibrio,Microbe-Pathway,9.0
+Beta Oxidation of Very Long Chain Fatty Acids,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Beta Oxidation of Very Long Chain Fatty Acids,Azonexus,Microbe-Pathway,6.0
+Beta Oxidation of Very Long Chain Fatty Acids,Chromatium,Microbe-Pathway,18.0
+Beta Oxidation of Very Long Chain Fatty Acids,Clostridioides,Microbe-Pathway,57.34363369212291
+Beta Oxidation of Very Long Chain Fatty Acids,Collinsella,Microbe-Pathway,12.0
+Beta Oxidation of Very Long Chain Fatty Acids,Cutibacterium,Microbe-Pathway,6.0
+Beta Oxidation of Very Long Chain Fatty Acids,Dorea_A,Microbe-Pathway,26.11844730971889
+Beta Oxidation of Very Long Chain Fatty Acids,Emergencia,Microbe-Pathway,61.9650086794494
+Beta Oxidation of Very Long Chain Fatty Acids,Legionella,Microbe-Pathway,52.836633476025455
+Beta Oxidation of Very Long Chain Fatty Acids,Muricomes,Microbe-Pathway,6.0
+Beta Oxidation of Very Long Chain Fatty Acids,Pseudomonas,Microbe-Pathway,57.1788149690973
+Beta Oxidation of Very Long Chain Fatty Acids,Streptomyces,Microbe-Pathway,57.4951690445109
+Beta Oxidation of Very Long Chain Fatty Acids,Thermococcus,Microbe-Pathway,69.35864062223372
+Beta Oxidation of Very Long Chain Fatty Acids,UBA2212,Microbe-Pathway,40.56445134403104
+Beta Oxidation of Very Long Chain Fatty Acids,Veillonella,Microbe-Pathway,9.0
+Beta Oxidation of Very Long Chain Fatty Acids,Vibrio,Microbe-Pathway,9.0
+Beta-Alanine Metabolism,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Beta-Alanine Metabolism,Azonexus,Microbe-Pathway,6.0
+Beta-Alanine Metabolism,Chromatium,Microbe-Pathway,18.0
+Beta-Alanine Metabolism,Clostridioides,Microbe-Pathway,57.34363369212291
+Beta-Alanine Metabolism,Collinsella,Microbe-Pathway,12.0
+Beta-Alanine Metabolism,Cutibacterium,Microbe-Pathway,6.0
+Beta-Alanine Metabolism,Dorea_A,Microbe-Pathway,26.11844730971889
+Beta-Alanine Metabolism,Emergencia,Microbe-Pathway,61.9650086794494
+Beta-Alanine Metabolism,Legionella,Microbe-Pathway,52.836633476025455
+Beta-Alanine Metabolism,Muricomes,Microbe-Pathway,6.0
+Beta-Alanine Metabolism,Pseudomonas,Microbe-Pathway,57.1788149690973
+Beta-Alanine Metabolism,Streptomyces,Microbe-Pathway,57.4951690445109
+Beta-Alanine Metabolism,Thermococcus,Microbe-Pathway,69.35864062223372
+Beta-Alanine Metabolism,UBA2212,Microbe-Pathway,40.56445134403104
+Beta-Alanine Metabolism,Veillonella,Microbe-Pathway,9.0
+Beta-Alanine Metabolism,Vibrio,Microbe-Pathway,9.0
+Betaine Metabolism,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Betaine Metabolism,Azonexus,Microbe-Pathway,6.0
+Betaine Metabolism,Chromatium,Microbe-Pathway,18.0
+Betaine Metabolism,Clostridioides,Microbe-Pathway,57.34363369212291
+Betaine Metabolism,Collinsella,Microbe-Pathway,12.0
+Betaine Metabolism,Cutibacterium,Microbe-Pathway,6.0
+Betaine Metabolism,Dorea_A,Microbe-Pathway,26.11844730971889
+Betaine Metabolism,Emergencia,Microbe-Pathway,61.9650086794494
+Betaine Metabolism,Legionella,Microbe-Pathway,52.836633476025455
+Betaine Metabolism,Muricomes,Microbe-Pathway,6.0
+Betaine Metabolism,Pseudomonas,Microbe-Pathway,57.1788149690973
+Betaine Metabolism,Streptomyces,Microbe-Pathway,57.4951690445109
+Betaine Metabolism,Thermococcus,Microbe-Pathway,69.35864062223372
+Betaine Metabolism,UBA2212,Microbe-Pathway,40.56445134403104
+Betaine Metabolism,Veillonella,Microbe-Pathway,9.0
+Betaine Metabolism,Vibrio,Microbe-Pathway,9.0
+Bile Acid Biosynthesis,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Bile Acid Biosynthesis,Azonexus,Microbe-Pathway,6.0
+Bile Acid Biosynthesis,Chromatium,Microbe-Pathway,18.0
+Bile Acid Biosynthesis,Clostridioides,Microbe-Pathway,57.34363369212291
+Bile Acid Biosynthesis,Collinsella,Microbe-Pathway,12.0
+Bile Acid Biosynthesis,Cutibacterium,Microbe-Pathway,6.0
+Bile Acid Biosynthesis,Dorea_A,Microbe-Pathway,26.11844730971889
+Bile Acid Biosynthesis,Emergencia,Microbe-Pathway,61.9650086794494
+Bile Acid Biosynthesis,Legionella,Microbe-Pathway,52.836633476025455
+Bile Acid Biosynthesis,Muricomes,Microbe-Pathway,6.0
+Bile Acid Biosynthesis,Pseudomonas,Microbe-Pathway,57.1788149690973
+Bile Acid Biosynthesis,Streptomyces,Microbe-Pathway,57.4951690445109
+Bile Acid Biosynthesis,Thermococcus,Microbe-Pathway,69.35864062223372
+Bile Acid Biosynthesis,UBA2212,Microbe-Pathway,40.56445134403104
+Bile Acid Biosynthesis,Veillonella,Microbe-Pathway,9.0
+Bile Acid Biosynthesis,Vibrio,Microbe-Pathway,9.0
+Biotin Metabolism,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Biotin Metabolism,Azonexus,Microbe-Pathway,6.0
+Biotin Metabolism,Chromatium,Microbe-Pathway,18.0
+Biotin Metabolism,Clostridioides,Microbe-Pathway,57.34363369212291
+Biotin Metabolism,Collinsella,Microbe-Pathway,12.0
+Biotin Metabolism,Cutibacterium,Microbe-Pathway,6.0
+Biotin Metabolism,Dorea_A,Microbe-Pathway,26.11844730971889
+Biotin Metabolism,Emergencia,Microbe-Pathway,61.9650086794494
+Biotin Metabolism,Legionella,Microbe-Pathway,52.836633476025455
+Biotin Metabolism,Muricomes,Microbe-Pathway,6.0
+Biotin Metabolism,Pseudomonas,Microbe-Pathway,57.1788149690973
+Biotin Metabolism,Streptomyces,Microbe-Pathway,57.4951690445109
+Biotin Metabolism,Thermococcus,Microbe-Pathway,69.35864062223372
+Biotin Metabolism,UBA2212,Microbe-Pathway,40.56445134403104
+Biotin Metabolism,Veillonella,Microbe-Pathway,9.0
+Biotin Metabolism,Vibrio,Microbe-Pathway,9.0
+Caffeine Metabolism,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Caffeine Metabolism,Azonexus,Microbe-Pathway,6.0
+Caffeine Metabolism,Chromatium,Microbe-Pathway,18.0
+Caffeine Metabolism,Clostridioides,Microbe-Pathway,57.34363369212291
+Caffeine Metabolism,Collinsella,Microbe-Pathway,12.0
+Caffeine Metabolism,Cutibacterium,Microbe-Pathway,6.0
+Caffeine Metabolism,Dorea_A,Microbe-Pathway,26.11844730971889
+Caffeine Metabolism,Emergencia,Microbe-Pathway,61.9650086794494
+Caffeine Metabolism,Legionella,Microbe-Pathway,52.836633476025455
+Caffeine Metabolism,Muricomes,Microbe-Pathway,6.0
+Caffeine Metabolism,Pseudomonas,Microbe-Pathway,57.1788149690973
+Caffeine Metabolism,Streptomyces,Microbe-Pathway,57.4951690445109
+Caffeine Metabolism,Thermococcus,Microbe-Pathway,69.35864062223372
+Caffeine Metabolism,UBA2212,Microbe-Pathway,40.56445134403104
+Caffeine Metabolism,Veillonella,Microbe-Pathway,9.0
+Caffeine Metabolism,Vibrio,Microbe-Pathway,9.0
+Cardiolipin Biosynthesis,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Cardiolipin Biosynthesis,Azonexus,Microbe-Pathway,6.0
+Cardiolipin Biosynthesis,Chromatium,Microbe-Pathway,18.0
+Cardiolipin Biosynthesis,Clostridioides,Microbe-Pathway,57.34363369212291
+Cardiolipin Biosynthesis,Collinsella,Microbe-Pathway,12.0
+Cardiolipin Biosynthesis,Cutibacterium,Microbe-Pathway,6.0
+Cardiolipin Biosynthesis,Dorea_A,Microbe-Pathway,26.11844730971889
+Cardiolipin Biosynthesis,Emergencia,Microbe-Pathway,61.9650086794494
+Cardiolipin Biosynthesis,Legionella,Microbe-Pathway,52.836633476025455
+Cardiolipin Biosynthesis,Muricomes,Microbe-Pathway,6.0
+Cardiolipin Biosynthesis,Pseudomonas,Microbe-Pathway,57.1788149690973
+Cardiolipin Biosynthesis,Streptomyces,Microbe-Pathway,57.4951690445109
+Cardiolipin Biosynthesis,Thermococcus,Microbe-Pathway,69.35864062223372
+Cardiolipin Biosynthesis,UBA2212,Microbe-Pathway,40.56445134403104
+Cardiolipin Biosynthesis,Veillonella,Microbe-Pathway,9.0
+Cardiolipin Biosynthesis,Vibrio,Microbe-Pathway,9.0
+Carnitine Synthesis,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Carnitine Synthesis,Azonexus,Microbe-Pathway,6.0
+Carnitine Synthesis,Chromatium,Microbe-Pathway,18.0
+Carnitine Synthesis,Clostridioides,Microbe-Pathway,57.34363369212291
+Carnitine Synthesis,Collinsella,Microbe-Pathway,12.0
+Carnitine Synthesis,Cutibacterium,Microbe-Pathway,6.0
+Carnitine Synthesis,Dorea_A,Microbe-Pathway,26.11844730971889
+Carnitine Synthesis,Emergencia,Microbe-Pathway,61.9650086794494
+Carnitine Synthesis,Legionella,Microbe-Pathway,52.836633476025455
+Carnitine Synthesis,Muricomes,Microbe-Pathway,6.0
+Carnitine Synthesis,Pseudomonas,Microbe-Pathway,57.1788149690973
+Carnitine Synthesis,Streptomyces,Microbe-Pathway,57.4951690445109
+Carnitine Synthesis,Thermococcus,Microbe-Pathway,69.35864062223372
+Carnitine Synthesis,UBA2212,Microbe-Pathway,40.56445134403104
+Carnitine Synthesis,Veillonella,Microbe-Pathway,9.0
+Carnitine Synthesis,Vibrio,Microbe-Pathway,9.0
+Catecholamine Biosynthesis,Anoxybacillus,Microbe-Pathway,37.74592366473483
+Catecholamine Biosynthesis,Azonexus,Microbe-Pathway,6.0
+Catecholamine Biosynthesis,Chromatium,Microbe-Pathway,18.0
+Catecholamine Biosynthesis,Clostridioides,Microbe-Pathway,57.34363369212291
+Catecholamine Biosynthesis,Collinsella,Microbe-Pathway,12.0
+Catecholamine Biosynthesis,Cutibacterium,Microbe-Pathway,6.0
+Catecholamine Biosynthesis,Dorea_A,Microbe-Pathway,26.11844730971889
+Catecholamine Biosynthesis,Emergencia,Microbe-Pathway,61.9650086794494
+Catecholamine Biosynthesis,Legionella,Microbe-Pathway,52.836633476025455
+Catecholamine Biosynthesis,Muricomes,Microbe-Pathway,6.0
+Catecholamine Biosynthesis,Pseudomonas,Microbe-Pathway,57.1788149690973
+Catecholamine Biosynthesis,Streptomyces,Microbe-Pathway,57.4951690445109
+Catecholamine Biosynthesis,Thermococcus,Microbe-Pathway,69.35864062223372
+Catecholamine Biosynthesis,UBA2212,Microbe-Pathway,40.56445134403104
+Catecholamine Biosynthesis,Veillonella,Microbe-Pathway,9.0
+Catecholamine Biosynthesis,Vibrio,Microbe-Pathway,9.0
